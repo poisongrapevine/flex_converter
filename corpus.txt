@@ -1,0 +1,2001 @@
+title	kh_REI_LI_sovkhoz_20190318
+title	Совхоз (REI)
+title-abbreviation	REI_sovkhoz
+title-abbreviation	REI_sovkhoz
+title-abbreviation	REI_sovkhoz
+source	
+source	Полевая запись. Экспедиция НИУ ВШЭ и МГУ.
+source	Field recording. NRU HSE and MSU expedition.
+comment	Биографический нарратив. Записано Алексеем Козловым в с. Казым 18.03.2019. Информант: Рандымова Екатерина Ильинична (род. в с. Казым в 1969).
+comment	Biographical narrative. Recorded by Alexei Kozlov in Kazym 18.03.2019. Speaker: Randymova Ekaterina Il'inichna (born in Kazym 1969).
+
+ ma	| śaśi-λ-am	| 	| ma	| śatˊśaśi-λ-am	| 	| aŋkśaśi-λ-am	| χuλijewa
+ я	| бабушка по отцовской линии-pl-poss.1sg	| 	| я	| дедушка по отцовской линии-pl-poss.1sg	| 	| дедушка по материнской линии-pl-poss.1sg	| все
+
+ wʉλ-əŋ	| wɵ-s-ət
+ олень-prop	| быть-pst-3pl
+У моих бабушек и дедушек по матери и по отцу у всех были олени
+
+ i	| 	| χuλijewa	| wojna	| 	| wojna	| jʉpijən	| χuλijewa
+ и	| 	| все	| война	| 	| война	| после	| все
+
+ wʉλi	| tăj-s-ət
+ олень	| иметь-pst-3pl
+После войны у них тоже были олени
+
+ aŋkśaś-ɛm	| wɵn	| jɛŋk	| 	| taś	| tăj-əs
+ дедушка-poss.1sg	| большой	| белый	| 	| стадо	| иметь-pst
+Дедушка по матери имел много белых оленей.
+
+ i śi	| jɛŋk	| 	| jɛŋk	| taś-əλ	| sowχos-ət	| wɛr-əm-ən
+ также	| белый	| 	| белый	| богатство-poss.3sg	| совхоз-pl	| дело-ptcp.pst-loc
+
+ χuλijewa	| sowχos-a	| nuχ	| wʉ-s-ij-ət
+ все	| совхоз-dat	| вверх	| брать-pst-pass-3pl
+Все это белое богатство, когда образовался совхоз, забрали в совхоз.
+
+ a	| śatˊśaśi-λ-am	| pa	| 	| aŋkśaś-ɛm	| jaj-əλ	| piλa
+ а	| дедушка по отцовской линии-pl-poss.1sg	| add	| 	| дедушка-poss.1sg	| старший брат-poss.3sg	| с
+
+ 	| 	| got-ən	| wojna-ja	| woχ-s-a
+ 	| 	| год-loc	| война-dat	| просить-pst-pass
+А дедушка по отцу… дедушку по матери с братом в сорок втором году забрали на войну.
+
+ i	| taś-əλ	| i	| śiti	| χăś-s-a	| sowχos-ən
+ и	| богатство-poss.3sg	| и	| так	| остаться-pst-pass	| совхоз-loc
+А богатства так и остались в совхозе.
+
+
+
+ a	| śatˊśaś-ɛm	| pa	| sowχos-a	| iśi	| sowχos-a
+ а	| дедушка по отцовской линии-poss.1sg	| add	| совхоз-dat	| тоже	| совхоз-dat
+
+ wʉ-s-ij-ət
+ брать-pst-pass-3pl
+А дедушка по отцу тоже в совхоз оленей…
+
+ i	| λʉw	| wʉλi-λ-aλ	| śatˊśaś-ɛm	| wʉλi-λ-aλ	| piλa
+ и	| 3sg	| олень-pl-poss.3sg	| дедушка по отцовской линии-poss.1sg	| олень-pl-poss.3sg	| с
+
+ wɵntər	| ak-ɛm	| sowχos	| taś-a	| măn-əs
+ Андрей	| дядя-poss.1sg	| совхоз	| стадо-dat	| идти-pst
+И он, дедушка по отцу, с оленями и дядя Андрей ушли в совхозное стадо.  (9)wʉλi tăjti, wʉλi tăjman
+
+ wʉλi	| tăj-ti	| 	| wʉλi	| tăj-man
+ олень	| иметь-ptcp.npst	| 	| олень	| иметь-cvb
+Оленей пасти, работать.
+
+ i	| λʉw	| rɵpit-m-aλ	| măr	| taś-əλ	| χuλna
+ и	| 3sg	| работать-ptcp.pst-3pl	| в течение	| богатство-poss.3sg	| ещё
+
+ λʉŋət-man	| tăj-s-əλλe
+ считать-cvb	| иметь-pst-3sg>sg/pl
+Когда он работал, он все время подсчитывал свое богатство (т. е. оленей).
+
+ a	| λʉw	| pensija-ja	| măn-m-aλ-ən	| taś-əλ	| ajəλtijewa
+ а	| 3sg	| пенсия-dat	| идти-ptcp.pst-poss.3sg-loc	| стадо-poss.3sg	| медленно
+
+ χuλ-əs
+ закончить-pst
+А когда он ушел на пенсию, стадо постепенно уменьшалось
+
+ in	| tăm	| i	| wʉλi	| pa	| ănt
+ сейчас	| этот	| один	| олень	| add	| neg
+
+ tăj-λ-əw
+ иметь-npst-1pl
+Теперь даже ни одного оленя не осталось.
+
+ i	| śatˊśaś-ɛm	| 	| ewəλti	| i	| wʉλi	| pa
+ и	| дедушка по отцовской линии-poss.1sg	| 	| из	| один	| олень	| add
+
+ ăn	| χăś-əs
+ neg	| остаться-pst
+От дедушки по отцу не осталось ни одного оленя
+
+ i	| śaśi	| 	| aŋkśaś-ɛm	| 	| ewəλt	| pa	| wʉλi-λ-aλ
+ и	| бабушка по отцовской линии	| 	| дедушка-poss.1sg	| 	| от	| add	| олень-pl-poss.3sg
+
+ sowχos-ən	| χutti	| ara	| pa	| ara	| wɵš-s-ət
+ совхоз-loc	| где-то	| prev	| add	| prev	| потеряться-pst-pl
+У дедушки по матери олени в совхозе тоже разбежались, потерялись.
+
+ i	| śiti	| wʉλi	| mʉŋ	| 
+ и	| так	| олень	| 1pl	| 
+И потом оленей мы…
+
+ in	| tăm	| 	| in	| tăm	| mʉŋ	| wʉλi
+ сейчас	| этот	| 	| сейчас	| этот	| 1pl	| олень
+
+ ănt	| tăj-λ-əw
+ neg	| иметь-npst-1pl
+Сейчас мы оленей не имеем.
+
+ nɛməλti	| 	| nɛməλti	| χujat-λ-əw	| 	| wʉλi	| ănt	| tăj-λ-ət
+ ничего	| 	| ничего	| человек-npst-1pl	| 	| олень	| neg	| иметь-npst-3pl
+Никто, ни один человек оленей не имеет.
+
+
+
+
+
+
+
+ 	| 	| a	| pa	| ut-λ-aλ	| muj	| wɛr-s-ət	| 
+ 	| 	| а	| add	| вещь-pl-poss.3sg	| что	| делать-pst-3pl	| 
+
+
+
+
+ a	| pa	| ut-λ-aλ	| pa	| ut-λ-aλ	| woš-ən
+ а	| add	| вещь-pl-poss.3sg	| add	| вещь-pl-poss.3sg	| поселок-loc
+
+ rɵpit-s-ət	| 	| woj	| 	| χʉλ	| weλpəs-λə-man	| wɵ-s-ət
+ работать-pst-3pl	| 	| зверь	| 	| рыба	| добыча-caus-cvb	| быть-pst-3pl
+А другие в деревне работали, добывали пушнину и рыбу.
+
+ wʉλi	| taś-ən	| ăn	| rɵpit-s-ət
+ олень	| стадо-loc	| neg	| работать-pst-3pl
+В оленьих стадах не работали.
+
+ i	| ma	| aśi-ɛm
+ и	| я	| отец-poss.1sg
+И мой отец
+
+ ma	| aśi-ɛm	| sowχos-ən	| ripak-a	| rɵpit-əs
+ я	| отец-poss.1sg	| совхоз-loc	| рыбак-dat	| работать-pst
+ Мой отец в совхозе рыбаком работал.
+
+ ivan	| pavlovič	| wɵλ-man	| pomut-ən	| woj	| χʉλ
+ Иван	| Павлович	| жить-cvb	| Помут-loc	| зверь	| рыба
+
+ weλpəs-λə-man	| wɵ-s
+ добыча-caus-cvb	| быть-pst
+Иван Павлович жил в Помуте, пушнину и рыбу добывал.
+
+ aleksandr	| pavlovič	| wʉtwoš-ən	| iśi	| rɵpit-əs	| 	| woš-ən
+ Александр	| Павлович	| Юильск-loc	| тоже	| работать-pst	| 	| поселок-loc
+
+ iśi	| rɵpit-əs	| 	| taś-ən	| ăn	| rɵpit-əs
+ тоже	| работать-pst	| 	| стадо-loc	| neg	| работать-pst
+Александр Павлович в Юильске работал, в этой деревне работал, в стадах не работал.
+
+ danil	| pavlovič	| mɛt	| wɵn	| ak-ew
+ Данил	| Павлович	| sup	| большой	| дядя-poss.1pl
+Данил Павлович – наш самый старший дядя.
+
+ λʉw
+ 3sg
+
+
+
+
+
+
+
+
+ λʉw	| iśi	| jăša	| wʉ-λ-ət	| tăj-əs
+ 3sg	| тоже	| немного	| брать-npst-3pl	| иметь-pst
+Он тоже немного имел оленей.
+
+ λʉw	| pa	| mɵš-a	| jʉw-ɛm-əs	| pa	| siri
+ 3sg	| add	| болезнь-dat	| стать-inch-pst	| add	| предыдущий
+
+ ăntɵm-a	| ji-s
+ neg.ex-dat	| стать-pst
+Он заболел и скоро его не стало.
+
+
+title	kh_REI_LS_20190331_sadpoem
+title	Грустное стихотворение
+title	Sad poem
+title-abbreviation	REI_sadpoem
+title-abbreviation	REI_sadpoem
+title-abbreviation	REI_sadpoem
+source	
+source	Полевая запись. Экспедиция НИУ ВШЭ и МГУ.
+source	Field recording. NRU HSE and MSU expedition.
+comment	Стихотворение. Записано Алексеем Старченко в Казыме 31.03.2019. Информант: Рандымова Екатерина Ильинична (род. в с. Казым в 1969).
+comment	Poem. Recorded by Alexei Starchenko in Kazym 31.03.2019. Speaker: Randymova Ekaterina Il'inichna (born in Kazym 1969).
+
+ mʉŋ	| χănte-t	| χɵn	| mʉŋ	| aλmuλti-t
+ 1pl	| человек-pl	| разве	| 1pl	| ничто-pl
+Мы не ханты, мы ничто
+
+ jiλəp	| laś-a	| jiλəp	| kaś-a	| wɵnλ-s-əw
+ новый	| власть-dat	| новый	| брюки-dat	| привыкнуть-pst-1pl
+К новой власти, к новым штанам привыкли
+
+ χuta	| χănti	| jasŋ-ew	| ăn	| tărm-əλ	| rʉś
+ где (вообще)	| ханты	| язык-poss.1pl	| neg	| хватить-npst	| русский
+
+ jasəŋ	| λońś-əmt-λ-əw
+ слово	| воткнуть-punct-npst-1pl
+Где хантыйского не хватает, русское слово вставляем
+
+ χănti	| jasŋ-ew-ən	| tɵp	| śi	| pɛrt-λ-əw
+ ханты	| язык-poss.1pl-loc	| только	| emph	| ворочать-npst-1pl
+По-хантыйски еле говорим
+
+ 	| jasəŋ	| χăś	| ari-λ-əw
+ 	| слово	| чуть не	| петь-npst-1pl
+Чуть ли не на двух языках поём
+
+ 	| mʉŋ	| jasŋ-ew	| mʉŋ	| 	| maskwa	| wʉš ewəλt
+ 	| 1pl	| язык-poss.1pl	| 1pl	| 	| Москва	| с тех пор как
+
+ mʉŋ-ti	| wɵnəλt-ti	| χujat	n	| kit-s-aj-əw
+ 1pl-acc	| учить-ptcp.npst	| человек-loc	| отправить-pst-pass-1pl
+На нашем языке учить из Москвы людей отправили
+
+ mʉŋ	| putr-əps-ew	| χɵλ-man	| śatˊśaś-λ-əw	| śaś-λ-əw	| nuχ
+ 1pl	| разговор-nmzl-poss.1pl	| слышать-cvb	| дедушка по отцовской линии-npst-1pl	| бабушка по отцовской линии-npst-1pl	| вверх
+
+ surńumt-əjiλ-t
+ вздрогнуть-freq-3pl
+Наш говор слыша, бабушки и дедушки вздрагивают
+
+
+title	kh_SED_AK,PK_20190321_obkurivanie
+title	N_Обкуривание
+title-abbreviation	SED_obkurivanie
+title-abbreviation	SED_obkurivanie
+title-abbreviation	SED_obkurivanie
+source	
+source	Полевая запись. Экспедиция НИУ ВШЭ и МГУ.
+source	Field recording. NRU HSE and MSU expedition.
+comment	Этнографический нарратив. Записано Полиной Касьяновой в с. Казым 21.03.2019. Информант: Салахова Евгения Даниловна (род. в д. Помут в 1956)
+comment	Ethnographic narrative. Recorded by Polina Kasianova in Kazym 21.03.2019. Speaker: Salakhova Evgenia Danilovna (born in Pomut 1956).
+
+ χot-λ-an	| χuśa	| wɵλ-ti-jən	| 	| want-ti	| 	| kămn	| χuj-at
+ дом-pl-poss.2sg	| в	| жить-ptcp.npst-loc	| 	| видеть-ptcp.npst	| 	| может	| кто-indef
+
+ juχt-ijλ	| 	| wewtam	| χuj-at	| juχt-ijλ
+ прийти-iter.npst	| 	| плохой	| кто-indef	| прийти-iter.npst
+Когда живешь в доме, видишь, бывает, кто-то приходит, кто-то плохой приходит
+
+ wewtam-a	| nɵməs-ti	| χuj-at	| juχt-ijλ
+ плохой-dat	| думать-ptcp.npst	| кто-indef	| прийти-iter.npst
+С плохими мыслями кто-то приходит
+
+ śăλta	| śi	| juχt-aλ-ən	| wewtam-a	| ki	| nɵməs-λ
+ потом	| emph	| прийти-3pl-loc	| плохой-dat	| если	| думать-npst
+
+ χot-en-ən	| tɵχ	| śos-ən	| χuj-at	| juχt-əm	| χuj-at
+ дом-poss.2sg-loc	| indf.sp.known	| час-loc	| кто-indef	| прийти-ptcp.pst	| кто-indef
+
+ wɵλ-ti	| śira	| uχ-ən	| kaśi	| ji-λ	| šănš-ən
+ жить-ptcp.npst	| для	| голова-loc	| больной	| стать-npst	| спина-loc
+
+ λawɛrt-a	| ji-λ
+ тяжелый-dat	| стать-npst
+И потом, если придёт в твой дом с плохими мыслями, иногда чтобы там поселиться, тогда то голова заболит, то спину заломит
+
+ śăλta	| śi	| păta	| tɵχ	| wɵj-ti	| χujat-ət
+ потом	| emph	| из-за	| indf.sp.known	| знать-ptcp.npst	| человек-pl
+
+ śi	| lup-λ-a	| χot-ən	| χop jʉχ	| kar-ən	| nuχ
+ emph	| сказать-npst-pass	| дом-loc	| осина	| кора-loc	| вверх
+
+ kʉšməλ-ti
+ поджечь-ptcp.npst
+Вот потому некоторые знающие люди и говорят: «Дом свой осиновой корой окури»
+
+ χop jʉχ	| kar	| wʉjλˊ-i	| pa	| nuχ	| wʉśit-λ-a
+ осина	| кора	| брать-pass	| add	| вверх	| жечь-npst-pass
+
+ pa	| śăλta	| 	| oλəŋ	| aλəŋ	| χot-ən	| nuχ
+ add	| потом	| 	| вначале	| утром	| дом-loc	| вверх
+
+ λeśət-λ-ən	| 	| śăλta	| χop jʉχ	| kar	| nuχ	| wʉśit-λ-a
+ прибрать-npst-2sg	| 	| потом	| осина	| кора	| вверх	| жечь-npst-pass
+
+ pa	| χot	| χătəλ	| măn-ti	| śir-ən	| muj arat
+ add	| дом	| солнце	| идти-ptcp.npst	| образ-loc	| сколько (именно)
+
+ χot jit	| wɵλ	| 	| muj arat	| sʉŋ	| 	| nuri	| iλpi	| 
+ комната	| быть	| 	| сколько (именно)	| угол	| 	| кровать	| под	| 
+
+ χuλijewa	| śi	| nuχ	| kʉšməλ-λ-a-jət
+ все	| emph	| вверх	| поджечь-npst-pass-3pl
+Осиновая кора берётся и поджигается, и потом… Вначале утром дом свой приберёшь, потом осиновая кора поджигается, и тогда по направлению движения солнца, сколько комнат есть, сколько углов, под кроватями, всё окуривается
+
+ nuχ	| kʉšməλ-λ-a-jət	| pa	| śăλta	| śi	| jɵχət
+ вверх	| поджечь-npst-pass-3pl	| add	| потом	| emph	| потом
+
+ wɵλ-ti	| pa	| jăm-a	| -šək	| śi	| ji-λ
+ жить-ptcp.npst	| add	| хороший-dat	| comp	| emph	| стать-npst
+
+ tɵχ	| śos-ən	| pa	| nuχ	| śi	| wuλλi
+ indf.sp.known	| час-loc	| add	| вверх	| emph	| совсем
+
+ iλ	| śi	| wewtam	| wɛr-ət
+ внизу	| emph	| плохой	| дело-pl
+Всё окуривается, и после этого уже жить лучше становится, а иногда плохие явления совсем прекращаются
+
+
+title	kh_txt_ATL_20190342_kazym
+title	Казым
+title-abbreviation	ATL_kazym
+title-abbreviation	ATL_kazym
+title-abbreviation	ATL_kazym
+source	
+source	Полевая запись. Экспедиция НИУ ВШЭ и МГУ.
+source	Field recording. NRU HSE and MSU expedition.
+comment	Биографический нарратив. Записано Дарьей Бикиной в с. Казым 24.03.2019. Информант: Аликова Татьяна Леонидовна (род. на стойбище рядом с с. Казым в 1968).
+comment	Biographical narrative. Recorded by Daria Bikina in Kazym 24.03.2019. Speaker: Alikova Tatian Leonodovna (born at the camp near Kazym 1968).
+
+ mʉŋ	| amńa	| woš-ən	| wɵλ-λ-əw	| kasəm
+ 1pl	| Амня	| поселок-loc	| жить-npst-1pl	| Казым
+Мы живем в поселении на Амне (другое название Казыма), Казыме
+
+ mʉŋ	| woš-ew	| ka	| 	| amńa	| juχan	| χonəŋən
+ 1pl	| поселок-poss.1pl	| flst	| 	| Амня	| река	| около
+
+ oməs-λ
+ стоять-npst
+Наше поселение находится на берегу реки Ка… Амни.
+
+ kasəm-ən	| arsər	| joχ	| wɵλ-λ-ət	| 	| χănte-t	| jurn-ət
+ Казым-loc	| разный	| народ	| жить-npst-3pl	| 	| ханты-pl	| ненец-pl
+
+ rʉś-ət	| pa	| pa	| joχ
+ русский-pl	| add	| add	| народ
+В Казыме разные люди живут: ханты, ненцы, русские и люди других национальностей
+
+ woš-ew	| wɛra	| ăn	| 	| wɵn	| ăntɵm
+ поселок-poss.1pl	| очень	| neg	| 	| большой	| neg.ex
+Наше поселение не очень большое
+
+ mʉŋ	| ăškola	| tăj-λ-əw	| detskij sad	| λapka-jət	| sportzal
+ 1pl	| школа	| иметь-npst-1pl	| детский сад	| магазин-pl	| спортзал
+
+ klub	| tăj-λ-əw	| 
+ клуб	| иметь-npst-1pl	| 
+У нас школа есть, детский сад, магазины, спортзал, клуб есть
+
+ mʉŋ	| wɵn	| kew	| jɵš	| tăj-λ-əw	| śi
+ 1pl	| большой	| каменный	| дорога	| иметь-npst-1pl	| emph
+
+ jɵš	| χʉwat	| mʉŋ	| woš-a	| jăŋχ-λ-əw	| woš-ew
+ дорога	| вдоль	| 1pl	| город-dat	| ездить-npst-1pl	| поселок-poss.1pl
+
+ belojarskij	| nɛm	| tăj-λ
+ Белоярский	| имя	| иметь-npst
+У нас есть большая бетонная дорога, по этой дороге мы в город ездим, город наш называется Белоярский
+
+
+title	kh_txt_ATL_LI_20180626_nenec_ancestors
+title	Ненецкие предки
+title	Nenec ancestors
+title-abbreviation	ATL_nenec_ancestors
+title-abbreviation	ATL_nenec_ancestors
+title-abbreviation	ATL_nenec_ancestors
+source	
+source	Полевая запись. Экспедиция НИУ ВШЭ и МГУ.
+source	Field recording. NRU HSE and MSU expedition.
+comment	Biographical narrative. Recorded by Alexei Kozlov in Kazym 26.06.2018. Speaker: Alikova Tatian Leonodovna (born at the camp near Kazym 1968).
+comment	Биографический нарратив. Записано Алексеем Козловым в Казыме 26.06.2018. Информант: Аликова Татьяна Леонидовна (род. на стойбище рядом с с. Казым в 1968).
+
+ ma	| aŋk-ɛm	| pa	| aś-ɛm	| oλəŋ-ən	| putər-λ-əm
+ я	| мать-poss.1sg	| add	| отец-poss.1sg	| вначале-loc	| **-npst-1sg
+Сначала я расскажу о маме и папе.
+Понять бывает ли oλəŋ в значении про без локатива на себе. Пока скорее кажется, что тут его можно услышать. Не надо ли скорректировать перевод?
+
+ ma	| aŋk-ɛm	| loganɨ	| marija	| timafejevna	| 	| opraś
+ я	| мать-poss.1sg	| Логаны	| Мария	| Тимофеевна	| 	| прадед
+
+ nɛm-əλ	| Moldanova
+ имя-poss.3sg	| Молданова
+Моя мама Логаны Мария Тимофеевна, её (девичья) фамилия Молданова.
+
+ λʉw	| kogəlɨm	| woš	| χonəŋən	| sɛma pit-əs
+ 3sg	| Когалым	| город	| около	| родиться-pst
+Она родилась возле Когалыма.
+
+ aś-ɛm	| Loganɨ	| Leonid	| Andreevič
+ отец-poss.1sg	| Логаны	| Леонид	| Андреевич
+Отец – Логаны Леонид Андреевич.
+
+ λʉw	| tɵrəm λor-ən	| sɛma pit-əs
+ 3sg	| Нумто-loc	| родиться-pst
+Он родился в деревне Нумто.
+
+ ma	| jaj	| pa	| kăt	| upi	| tăj-λ-əm
+ я	| старший брат	| add	| два	| сестра	| иметь-npst-ptcp.pst
+У меня есть брат и две сестры.
+
+ ma	| aŋkaŋk-ɛm	| iśi	| 	| aŋk-ɛm	| χănti	| nɛ
+ я	| бабушка по материнской линии-poss.1sg	| тоже	| 	| мать-poss.1sg	| ханты	| женщина
+
+ wɵ-s	| 	| aś-ɛm	| jurən	| 	| jurən	| iki
+ быть-pst	| 	| отец-poss.1sg	| ненец	| 	| ненец	| мужчина
+Моя мама была хантыйкой, а папа ненец.
+
+ aŋkaŋk-ɛm	| iśi	| jurən	| 	| jurən	| imi	| wɵ-s
+ бабушка по материнской линии-poss.1sg	| тоже	| ненец	| 	| ненец	| женщина	| быть-pst
+Моя бабушка тоже была ненкой.
+
+ aŋkśaś-ɛm	| iśi	| jurən	| iki	| 	| aŋkśaś-ɛm	| iśi
+ дедушка-poss.1sg	| тоже	| ненец	| мужчина	| 	| дедушка-poss.1sg	| тоже
+
+ jurən	| wɵ-s
+ ненец	| быть-pst
+Моя дедушка тоже был ненец.
+
+
+title	kh_txt_EAA_ETF_AZ_20180719_breeding_foxes
+title	Breeding foxes
+title	Разведение лис
+title-abbreviation	EAA&ETF_breeding_foxes
+title-abbreviation	EAA&ETF_breeding_foxes
+title-abbreviation	EAA&ETF_breeding_foxes
+source	
+source	Полевая запись. Экспедиция НИУ ВШЭ и МГУ.
+source	Field recording. NRU HSE and MSU expedition.
+comment	Biographical narrative. Recorded by Aigul Zakirova in Kazym 19.07.2018. Speakers: Ernykhov Andrei Aleksandrovich (born in Amnia 1944), Ernykhova Tatiana Filippovna, his wife.
+comment	Биографический нарратив. Записано Айгуль Закировой в с. Казым 19.07.2018. Информанты: Ерныхов Андрей Александрович (род. в д. Амня в 1944), Ерныхова Татьяна Филипповна, его жена.
+
+ rɵpata-jew	| oλ	| 	| rɵpata-jew	| oλəŋən
+ работа-poss.1pl	| 	| 	| работа-poss.1pl	| о
+о работе
+
+ muj	| 	| 	| muj	| wɛr-ti	| muj	| putərt-ti
+ что	| 	| 	| что	| делать-ptcp.npst	| что	| говорить-ptcp.npst
+что делать... о чём говорить
+
+ muj-kɛm	| 	| χɵn	| măn-λ-əti	| rɵpata-ja	| 	| χuj	| rɵpit-əs	| 
+ что-appr	| 	| когда	| идти-npst-2pl	| работа-dat	| 	| кто	| работать-pst	| 
+
+ kɵśa-ja	| wɵ-s
+ начальник-dat	| быть-pst
+сколько.. когда идёте на работу, кто работал, был начальником
+
+ muj-kɛm	| 	| muj-kɛm	| wuχsar	| tăj-s-əti
+ что-appr	| 	| что-appr	| лиса	| иметь-pst-2pl
+сколько лисиц содержали
+
+ 	| 	| zwˊerofˊerma	| oλəŋ
+ 	| 	| звероферма	| вначале
+
+
+ rɵpata-ja	| aλəŋ	| măn-λ-əw	| 	| 	| śi	| puraj-ən	| 	| niwəλ
+ работа-dat	| утром	| идти-npst-1pl	| 	| 	| emph	| время-loc	| 	| восемь
+
+ śos-ən	| măn-λ-əw	| 	| 	| 	| 	| pa	| śi
+ час-loc	| идти-npst-1pl	| 	| 	| 	| 	| add	| emph
+на работу утром уходим - в то время в 8 часов уходили - и опять
+
+ aλəŋ	| niwəλ	| śos-ən	| măn-λ-əw	| rɵpata-ja
+ утром	| восемь	| час-loc	| идти-npst-1pl	| работа-dat
+утром в 8 часов уходим на работу
+
+ niwəλ	| śos-ən	| măn-λ-əw	| ńawrɛm-λ-əw	| tăλaŋ	| χătəλ
+ восемь	| час-loc	| идти-npst-1pl	| ребенок-pl-1pl	| целый	| день
+
+ χăj-əλt-λ-əw
+ остаться-caus-npst-1pl
+в 8 часов уходим, детей на целый день оставляем - и целый день так до вечера они живут одни
+
+ 	| 	| 	| 	| 	| jetn	| wɵnta
+ 	| 	| 	| 	| 	| вечер	| до тех пор как
+
+ śi	| wɵλ-λ-ət
+ emph	| жить-npst-3pl
+и так целый день до вечера они живут одни
+
+ jetn	| wɵnta	| wɵλ-λ-ət	| jetn	| niwəλ	| wɵnta
+ вечер	| до тех пор как	| жить-npst-3pl	| вечер	| восемь	| до тех пор как
+
+ rɵpit-λ-əw
+ работать-npst-1pl
+до вечера живут, вечером до 8 (до 8 вечера) работаем
+
+ 	| 	| 	| 	| 	| juχt-λ-əw	| pa
+ 	| 	| 	| 	| 	| прийти-npst-1pl	| add
+
+ pa
+ add
+
+
+ ńawrɛm-λ-əw	| tɵ-λ-əw	| ńawrɛm-λ-əw	| juχi	| tɵ-λ-əw	| ńawrɛm-λ-əw
+ ребенок-pl-1pl	| возить-npst-1pl	| ребенок-pl-1pl	| назад	| возить-npst-1pl	| ребенок-pl-1pl
+
+ juχi	| tɵ-λ-əw	| pa
+ назад	| возить-npst-1pl	| add
+детей приводим... детей домой приводим.. детей домой приводим.. и
+
+ sadˊik	| ewəλt	| juχət-ti	| śir-ən	| 	| pa	| iλ
+ садик	| от	| прийти-ptcp.npst	| образ-loc	| 	| add	| внизу
+
+ pa	| śi	| wujəm-λ-a-jət	| 	| uλ-ti	| puraj-a	| pa
+ add	| emph	| засыпать-npst-pass-3pl	| 	| спать-ptcp.npst	| время-dat	| add
+
+ śi	| ji-λ
+ emph	| стать-npst
+как из садика домой приходят - ну и засыпают - ну и наступает время сна
+
+ śăλta	| pa	| χătλ-a	| ji-λ	| 	| pa	| śi
+ потом	| add	| день-dat	| стать-npst	| 	| add	| emph
+
+ măn-λ-əw	| rɵpata-ja
+ идти-npst-1pl	| работа-dat
+потом - завтра наступает - опять идём на работу
+
+ śiməś	| pa	| rɵpit-λ-əw	| rɵpit-λ-əw	| pa	| jetn-a
+ такой	| add	| работать-npst-1pl	| работать-npst-1pl	| add	| вечер-dat
+
+ ji-λ	| pa	| śi	| ńawrɛm-λ-əw	| ńawrɛm-λ-əw	| wʉ-λ-ew
+ стать-npst	| add	| emph	| ребенок-pl-1pl	| ребенок-pl-1pl	| брать-poss.3sg-1pl>sg
+
+ uλ-ti	| puraj-λ-aλ-a	| ji-λ
+ спать-ptcp.npst	| время-pl-poss.3pl-dat	| стать-npst
+такой.. опять работаем работаем.. и наступает вечер.. опять забираем детей...приходит время их [сна]
+
+ śăλta	| pa	| muj	| oλəŋən	| putərt-ti
+ потом	| add	| что	| о	| говорить-ptcp.npst
+о чем ещё рассказать
+
+ λapət	| klass	| tɵp	| jetš-əs-əm	| 	| λapət	| klass
+ семь	| класс	| только	| закончиться-pst-1sg	| 	| семь	| класс
+
+ jetš-əs-əm
+ закончиться-pst-1sg
+только семь классов заканчивала
+
+ pa	| ănt	| wɵnəλt-əs-əw	| 	| 	| 	| 
+ add	| neg	| учиться-pst-1pl	| 	| 	| 	| 
+
+ 	| 
+ 	| 
+больше не учились… мать меня домой забрала потом
+
+ kurs-a	| ănt	| jăŋχ-s-əw	| mʉŋ	| nɛmχuλta	| ănt
+ курсы-dat	| neg	| ходить-pst-1pl	| 1pl	| никуда	| neg
+
+ jăŋχ-s-əw	| zaočka-ja	| wɵnəλt-əs-əw
+ ходить-pst-1pl	| заочка-dat	| учиться-pst-1pl
+на курсы не ездили... никуда не ездили, заочно учились
+
+ pa	| muj	| oλəŋ	| putərt-λ-əm
+ add	| что	| вначале	| рассказать-npst-ptcp.pst
+о чем ещё расскажу
+
+ wuχsar	| muj-kɛm	| tăj-s-ən	| 
+ лиса	| что-appr	| иметь-pst-2sg	| 
+сколько лис содержала?
+
+ muj-kɛm	| wuχsar	| otdˊlˊeńija-jən	| tăj-s-ən
+ что-appr	| лиса	| отделение-loc	| иметь-pst-2sg
+сколько лис содержала в своём отделении
+
+ 	| 	| muj-kɛm	| samka	| muj-kɛm	| samˊets	| tăj-s-ən	| 
+ 	| 	| что-appr	| самка	| что-appr	| самец	| иметь-pst-2sg	| 
+сколько самка сколько самец содержать-PST.2sg
+
+ 	| 	| wuχsar	| χɵt	| jaŋ	| χɵt	| jaŋ
+ 	| 	| лиса	| шесть	| десять	| шесть	| десять
+60 лис
+
+ 	| χɵt	| jaŋ	| 	| jărtjaŋ	| samka	| tăj-s-əm	| ma
+ 	| шесть	| десять	| 	| девять	| самка	| иметь-pst-1sg	| я
+69 самок содержала я
+
+ 	| χɵt	| jaŋ	| 	| jărtjaŋ	| samka	| tăj-s-əm	| 
+ 	| шесть	| десять	| 	| девять	| самка	| иметь-pst-1sg	| 
+
+ χɵs	| wet	| samˊets	| tăj-s-əm
+ двадцать	| пять	| самец	| иметь-pst-1sg
+
+
+ śăλta	| ɛnm-əλt-əs-əm	| ɛnm-əλt-əs-əm	| 
+ потом	| расти-caus-pst-1sg	| расти-caus-pst-1sg	| 
+и потом растила(выращивала)
+
+ ńaλ	| sot	| kɛm-a	| śenok	| muλtikɛm	| ńaλ
+ четыре	| сто	| appr-dat	| щенок	| в основном	| четыре
+
+ sot	| kɛm-a	| ńaλ	| sot	| kɛm-a	| śi
+ сто	| appr-dat	| четыре	| сто	| appr-dat	| emph
+
+ śenok	| tăj-s-əm	| 	| 	| wʉ-jλ-əmən
+ щенок	| иметь-pst-1sg	| 	| 	| брать-npst-1du
+около 400 щенков в основном .. в основном около 400-х сот да около четырехсот щенков содержала, когда брала 1 место (мы вдвоем)
+
+ samˊets-λ-aλ	| muj-λ-aλ-ən	| ńaλ	| sot	| muλtas-a	| ji-λ
+ самец-pl-poss.3sg	| что-pl-poss.3sg-loc	| четыре	| сто	| остаток-dat	| стать-npst
+вместе с самцами больше 400 будет
+
+ 	| ńăλ	| sot	| 	| χɵs	| wet	| muλti	| 	| χɵs
+ 	| четыре	| сто	| 	| двадцать	| пять	| что.INDEF	| 	| двадцать
+
+ wet	| kɛm-а	| śi	| ji-λ
+ пять	| appr-pass	| emph	| стать-npst
+да около 425 будет
+
+
+title	kh_txt_EAA_ETF_AZ_20180719_life_in_tent
+title	Жизнь в чуме
+title	Life in tent
+title-abbreviation	EAA&ETF_life_in_tent
+title-abbreviation	EAA&ETF_life_in_tent
+title-abbreviation	EAA&ETF_life_in_tent
+source	
+source	Полевая запись. Экспедиция НИУ ВШЭ и МГУ.
+source	Field recording. NRU HSE and MSU expedition.
+comment	Biographical narrative. Recorded by Aigul Zakirova in Kazym 19.07.2018. Speakers: Ernykhov Andrei Aleksandrovich (born in Amnia 1944), Ernykhova Tatiana Filippovna, his wife.
+comment	Биографический нарратив. Записано Айгуль Закировой в с. Казым 19.07.2018. Информанты: Ерныхов Андрей Александрович (род. в д. Амня в 1944), Ерныхова Татьяна Филипповна, его жена.
+
+ ośoλ-ən	| kɵrt-ən	| sʉs-a	| ji-λ	| art-ən	| 	| awgust
+ Осетной-loc	| стойбище-loc	| осень-dat	| стать-npst	| время-loc	| 	| август
+
+ juχλi	| pɛλa	| lʉk	| weλ-ti	| sɛsi	| λeśit-ti
+ обратно	| в направлении	| глухарь	| добывать-ptcp.npst	| ловушка	| приготовить-ptcp.npst
+
+ puraj-a	| ji-λ
+ время-dat	| стать-npst
+В Осетном, когда осень приходит, в конце августа настало время готовить приспособления для ловли глухарей
+
+ awgust	| χɵs-mit	| kɛm-ən
+ август	| двадцать-ord	| время-loc
+В августе, примерно 20-го числа
+
+ isa	| tăj-ti	| sɛsi-λ-əmən	| wet	jaŋ	| 	| χɵt	jaŋ	| wɵ-λ
+ всегда	| иметь-ptcp.npst	| ловушка-pl-1du	| пять-десять	| 	| шесть-десять	| быть-npst
+Всегда этих ловушек 50-60
+
+ χɵt	jaŋ	| ji-λ
+ шесть-десять	| стать-npst
+Шестьдесят будет 
+
+ wet	jaŋ	| 	| χɵt	jaŋ	| ji-λ
+ пять-десять	| 	| шесть-десять	| стать-npst
+50-60 будет, потом 
+
+ śi	| puraj-a	| ji-λ	| ăktəś-λ-əmən	| muj	| wɛr-ti
+ emph	| время-dat	| стать-npst	| собираться-npst-1du	| что	| делать-ptcp.npst
+Это время придет, собирамся, что делать
+
+ λeśit-ti	| 	| pur	| 	| λeśit-ti	| 	| sɛsi	| λeśit-ti	| 	| sɛsi
+ приготовить-ptcp.npst	| 	| 	| 	| приготовить-ptcp.npst	| 	| ловушка	| приготовить-ptcp.npst	| 	| ловушка
+
+ pʉkla	| λeśit-λ-ən	| 	| sɛsi	| pʉkla	| jʉχ	| λeśit-λ-əmən
+ курок	| приготовить-npst-2sg	| 	| ловушка	| курок	| дерево	| приготовить-npst-1du
+Готовить, приспособления готовить, готовишь часть ловушки, готовим из дерева часть ловушки
+
+ pʉkla	| weλ-s	| jʉχ	| ăntɵm	| ji-s	| jʉχ
+ курок	| добывать-pst	| дерево	| neg.ex	| стать-pst	| дерево
+
+ karti	| pun	| wɵ-λ	| 	| karti	| pun	| λeśit-λ-əmən
+ железо	| струна	| быть-npst	| 	| железный	| струна	| чинить-poss.3sg-1du
+Деталь ловушки готовим из желеных прутьев, не рубим дерево
+
+ tɵ-λ-əw	| soχλ-ət	| λeśit-λ-əmən
+ нести-npst-1pl	| доска-pl	| чинить-npst-1du
+Доски готовим, делаем
+
+ pos	| šɵp-ət	| wɛr-λ-əmən
+ метка	| половина-pl	| делать-npst-1du
+Отметки делаем [метки половинки делаем – досл.]
+
+ χint-a	| pun-əm-λ-əmən	| pa	| šaj	| tăχti	| weλ-λ-əmən
+ берестяной кузов-dat	| класть-mom-npst-1du	| add	| чай	| кусочек	| добывать-npst-1du
+
+ śăλta	| śi	| šošəm-λ-əmən
+ потом	| emph	| лить-npst-1du
+В хинт положим, на чай немного возьмем и пошли
+
+ kʉr-ən	| jăŋχ-ijλ-λ-əmən
+ нога-loc	| ходить-iter.npst-npst-1du
+Ходим пешком 
+
+ kʉr-ən	| jăŋχ-ti	| tăχi-jən	| kʉr-ən	| šɵš-ijλ-λ-əmən
+ нога-loc	| ходить-ptcp.npst	| место-loc	| нога-loc	| ходить-iter.npst-npst-1du
+Где можем ходить пешком, ходим пешком
+
+ χint	| λăŋkər-ən	| nuχ	| λɛŋχ-ti	| pa	| śi
+ хинт	| плечо-loc	| вверх	| завязать-ptcp.npst	| add	| emph
+
+ šɵšəm-λ-əmən
+ пойти-npst-1du
+Хинт на спину завязываем и идем пешком
+
+ sɛsi-λ-amən	| muj-kɛm	| nuχ	| λeśit-λ-əmən	| χuta	| pawərt
+ ловушка-pl-**	| что-appr	| вверх	| чинить-npst-1du	| где (вообще)	| бревно
+
+ λij-s	| χuta	| pʉŋǝλ	| jʉχ	| λij-s	| 
+ сгнить-pst	| где (вообще)	| бок	| дерево	| сгнить-pst	| 
+
+ nuχ	| śi	| λeśit-λ-əmən
+ вверх	| emph	| чинить-pl-1du
+Сколько-то ловушек починим, где заменим боковые доски, где сгнившие бревна, вот так и чиним
+
+ śi	| λeśit-λ-əmən	| nuχ	| śi	| wor-λ-əmən	| nuχ
+ emph	| чинить-pl-1du	| вверх	| emph	| насторожить ловушку-npst-1du	| вверх
+
+ wort-ti	| jʉpijən	| aj	| kew	| šʉk-λ-ən	| χăr-ən
+ насторожить ловушку-ptcp.npst	| после	| маленький	| каменный	| кусочек-pl-poss.2/3du	| открытое место-loc
+
+ tăχ-ti
+ бросать-ptcp.npst
+После того как подняли слопцы вверх, кладем внутрь мелкие камушки
+
+ kew	| šʉk-λ-ən	| sɛsi	| λipija	| tăχ-λ-əmən
+ камень	| кусочек-pl-poss.2/3du	| ловушка	| внутрь	| бросать-pl-1du
+Бросаем внутрь побольше мелких камней
+
+ lʉk-en	| sʉs-ən	| kew	| šʉk	| λɛ-λ	| pa
+ глухарь-poss.2sg	| осень-loc	| камень	| кусочек	| есть-npst	| add
+
+ śi	| wɛra	| met	| jăm	| lʉk-en	| šiwaλə-λ
+ emph	| очень	| очень	| хороший	| глухарь-poss.2sg	| увидеть-npst
+
+ kew	| šʉk	| śi	| λuŋ	| tʉŋa
+ каменный	| кусочек	| emph	| зайти	| прямо
+Глухарь осенью ест камушки, и это очень хорошо, он видит камушки и заходит туда
+
+ śi	| χătəλ	| măr	| i	| χătəλ	| ăn
+ emph	| день	| в течение	| и	| день	| neg
+
+ jetšə-λ
+ закончиться-npst
+Так целый день, и одного дня не хватает
+
+ kimət	| χătəλ	| pa	| sɛsi	| pănt-ije	| tăj-λ-əmən
+ второй	| день	| add	| ловушка	| путь-dim	| иметь-npst-1du
+
+ kimət	| χătəλ	| jăŋχ-λ-əmən	| wet	jaŋ	| 	| χɵt	jaŋ	| sɛse-n
+ второй	| день	| ходить-npst-1du	| пять-десять	| 	| шесть-десять	| ловушка-poss.2sg
+
+ kăt	| χătəλ	| măr	| λeśit-λ-əmən
+ два	| день	| в течение	| чинить-npst-1du
+И на второй день еще ловушки есть, 50-60 ловушек в течение двух дней чиним. 
+
+ nuχ	| wor-λ-əmən
+ вверх	| насторожить ловушку-npst-1du
+Настораживаем
+
+ sentjabr	| tiλeś	| oλəŋ	| at-ət	| χʉw-a	| ji-λ-ət
+ сентябрь	| месяц	| вначале	| ночь-pl	| длинный-dat	| стать-npst-3pl
+В начале сентября ночи становятся длинными
+
+ aλəŋ	| iśki	| aλəŋ	| kew	| aλəŋ	| aλəŋ
+ утром	| холодно	| утром	| каменный	| утром	| утром
+
+ jʉw-ɛm-əλ
+ стать-inch-npst
+Утром начинаются заморозки (твердеет земля)
+
+ lʉk-λ-ən	| jăm-a	| jăŋχ-ti	| pit-λ-ət
+ глухарь-pl-poss.2/3du	| хороший-dat	| ходить-ptcp.npst	| становиться-npst-3pl
+Хорошо начинают ходить глухари
+
+ sɛsi-λ-amən	| wan-λ-əmən	| i	| χătəλ	| wɵ-λ-əmən	| jăŋχ-λ-əmən
+ ловушка-pl-**	| смотреть-npst-1du	| и	| день	| быть-npst-1du	| ходить-npst-1du
+
+ juχət-ti	| năŋ	| śiweλt	| juχət-λ-ən	| jaŋ	| 	| wet-χuś	jaŋ-kɛm
+ прийти-ptcp.npst	| 2sg	| туда	| прийти-npst-2sg	| десять	| 	| пять-dec-десять-appr
+
+ lʉk	| weλ-λ-ən
+ глухарь	| добывать-npst-2sg
+Слопцы проверяем, один день отдыхаем, когда приходим туда, добываешь штук 10-15 глухарей
+
+ śi	| lʉk-λ-amən	| 	| lʉk-ət	| 	| ńawrɛm-λ-amən-a	| kit-λ-əmən	| kasəm-a
+ emph	| глухарь-pl-**	| 	| глухарь-pl	| 	| ребенок-pl-**-dat	| отправить-npst-1du	| Казым-dat
+
+ λiw
+ 3pl
+Этих глухарей мы отправляем детям в Казым
+
+ śi	| ropota-jen	| jetšə-s
+ emph	| работа-poss.2sg	| закончиться-pst
+Все, работа закончилась
+
+
+title	kh_txt_EAA_SV_20180628_building_ostyak_houses
+title	Строя хантыйский дом
+title	Building Ostyak house
+title-abbreviation	EAA_building_ostyak_houses
+title-abbreviation	EAA_building_ostyak_houses
+title-abbreviation	EAA_building_ostyak_houses
+source	
+source	Полевая запись. Экспедиция НИУ ВШЭ и МГУ.
+source	Field recording. NRU HSE and MSU expedition.
+comment	Этнографический нарратив. Записано Сергеем Ванияном в с. Казым 28.06.2018. Информанты: Ерныхов Андрей Александрович (род. в д. Амня в 1944).
+comment	Ethnographic narrative. Recorded by Sergei Vaniian in Kazym 28.06.2018. Speakers: Ernykhov Andrei Aleksandrovich (born in Amnia 1944).
+
+ λʉŋ-ən	| wɵλ-ti	| χot	| tăj-s-ət	| wɵnt-ən	| wɵλ-ti
+ лето-loc	| жить-ptcp.npst	| дом	| иметь-pst-3pl	| лес-loc	| жить-ptcp.npst
+
+ χănnɛχɵ-λ-əλ	| wɵ-s-ət	| katra	| iśi	| śir-ən	| śit	| 
+ человек-pl-poss.3sg	| быть-pst-3pl	| прежде	| тоже	| образ-loc	| это	| 
+
+ λiw	| 	| wɵλ-ti	| isa	| śiti
+ 3pl	| 	| жить-ptcp.npst	| всегда	| так
+летний дом имели в лесу живущие люди жили в старину все  так было всегда так 
+
+ tăm	| jis	| 	| jis-ət	| 	| χɵn	| isa	| purməs
+ этот	| век	| 	| век-pl	| 	| когда	| всегда	| имущество
+
+ wɵ-λ	| 	| arsər	| purməs
+ быть-npst	| 	| разный	| имущество
+В то время не было товаров, различных товаров
+
+ śi	| ji-s	| nɛməλti	| ăn	| wɵ-s
+ emph	| стать-pst	| ничего	| neg	| быть-pst
+в то время ничего не было
+
+ mʉw	| χot	| wɵλ-ti	| oλəŋ	| 	| mʉw	| χot
+ земля	| дом	| быть-ptcp.npst	| вначале	| 	| земля	| дом
+
+ wɵ-s	| 	| mʉw	| χot-λ-an	| 	| χot	| λaŋəλ	| 	| konešno
+ быть-pst	| 	| земля	| дом-pl-poss.2sg	| 	| дом	| крыша	| 	| конечно
+
+ iśi	| muχəλaja	| pawərt	| ɛsəλ-man	| 	| 	| 	| ɛsəλ-ti	| 
+ тоже	| вокруг	| бревно	| пустить-cvb	| 	| 	| 	| пустить-ptcp.npst	| 
+
+ 	| 	| wɵ-s
+ 	| 	| быть-pst
+Сначала земляные дома. Были земляные дома. Земляные дома (крыши из земли?) делались также конечно тоже из пущеных по кругу бревен
+
+ λaŋəλ-λ-aλ	| aj	| tunti	| λaŋəλ-ət	| wɛr-man	| wɵ-s-ət	| 
+ крыша-pl-poss.3sg	| маленький	| береста	| крыша-pl	| делать-cvb	| быть-pst-3pl	| 
+
+ i	| sʉŋ-λ-aλ-ən
+ и	| угол-pl-poss.3sg-loc
+Из молодой бересты делали крышу и уголки
+
+ śi	| χɵn	| 	| kɵr	| ăntɵm	| wɵ-s	| sʉŋ	| 
+ emph	| когда	| 	| печь	| neg.ex	| быть-pst	| угол	| 
+
+ saλen
+ 
+В это время печка не было в углу.
+
+ χot	| kʉtλəp-ən	| aj	| tʉt-ije	| tʉt	| tʉt
+ дом	| середина-loc	| маленький	| огонь-dim	| огонь	| огонь
+по углам, а в середине маленький огонек
+
+ rat	| χăr	| to estˊ	| wɛrən-s-ət	| 	| śit	| śi
+ очаг	| открытое место	| то есть	| делать-pst-3pl	| 	| это	| emph
+
+ pa	| pɵsəŋ	| 	| pɵsŋəŋ	| 	| 	| aj	| kim
+ add	| дымокур	| 	| дымный	| 	| 	| маленький	| наружу
+
+ i	| ăλ-ti	| pa	| muj	| wʉ-s	| pa
+ и	| топить (печь)-ptcp.npst	| add	| что	| брать-pst	| add
+
+ wɛrənt-ijəλ-s-ət	| 
+ делать-freq-pst-3pl	| 
+Место для очага то есть делали и печь запатливали
+
+ tʉŋk	| χot	| iśi	| wɵλ-ti	| šɵš-ijəλ-λ-ən	| 	| tʉŋk
+ мох	| дом	| тоже	| жить-ptcp.npst	| ходить-freq-npst-2sg	| 	| мох
+
+ χot	| toše	| jɛrəm-man	| 	| wɛrən-s-ət	| iśi
+ дом	| тоже	| быть в затруднении-cvb	| 	| делать-pst-3pl	| тоже
+Из мха тоже делали дома. Из мха дома тоже, потому что были в затруднении тоже .
+
+ iśi	| λipi-jən	| λipəλta	| jʉχ	| pɛlək	| λoŋ	| 
+ тоже	| внутренняя часть-loc	| изнутри	| дерево	| половина	| 	| 
+
+ λoŋχit-əm	| jʉχ	| pɛlək	| ewəλt	| λońś-ijəλ-s-a-jət	| 	| 	| 
+ колоть-ptcp.pst	| дерево	| половина	| из	| воткнуть-freq-pst-pass-3pl	| 	| 	| 
+тоже внутренние помещения из расщепленной половины бревна, из расколотой половинки бревна выставлялось
+
+ kim	| pɛlək	| jiλpa	| tʉŋk	| wʉrti	| jekər
+ наружу	| половина	| снова	| мох	| красный	| болото
+
+ tʉŋk	| aλt-ijəλ-s-a-jət	| 	| 	| 	| aλtijλti	| 	| iśi
+ мох	| тащить-freq-pst-pass-3pl	| 	| 	| 	| 	| 	| тоже
+снаружи мхом красным с подлеска выкладывалось тоже
+
+ jăm-a	| pajλi	| nɵmən	| śiw	| pa	| śiw
+ хороший-dat	| ровно	| наверху	| туда	| add	| туда
+
+ pʉŋəλa	| iśi	| jɛrt	| χot	| 	| wot	| 	| wot
+ рядом	| тоже	| дождь	| дом	| 	| вот	| 	| вот
+
+ katəλ-ti	| jăm-a	| katəλ
+ держать-ptcp.npst	| хороший-dat	| держать
+хорошо, ровно в помощь друг к другу укладывается тоже дождь и ветер задерживает, хорошо задерживает
+
+ śăλta	| joχt	| joχt-šək	| ɛλti	| wɵλ-ti	| tăχi-λ-aλ-ən
+ потом	| потом	| потом-comp	| над	| жить-ptcp.npst	| место-pl-poss.3sg-loc
+
+ 	| i	| sʉs	| χot	| tăλ	| χot
+ 	| и	| осень	| дом	| везти	| дом
+
+ wɵ-s	| sʉs	| χot-λ-aλ
+ быть-pst	| осень	| дом-pl-poss.3pl
+потом далее на постоянных местах проживания имеется осеннее стойбище и зимнее стойбище, зимнии стойбища
+
+ sʉs	| χănti	| χot
+ осень	| ханты	| дом
+осенний хантыйский дом
+
+ χišəŋ	| χišəŋ	| χot	| 	| λaŋəλ-λ-aλ	| 	| 	| năŋ
+ песчаный	| песчаный	| дом	| 	| крыша-pl-poss.3sg	| 	| 	| 2sg
+
+ χiš	| 	| oλəŋ	| λaŋəλ	| śir	| ɵχtija
+ песок	| 	| вначале	| крыша	| образ	| на 
+песчанный дома. На крышу дома сначала песок кладут
+
+ a	| śi	| nʉmpija	| 	| kar	| 	| pa	| pʉŋəλa
+ а	| emph	| наверх	| 	| кора	| 	| add	| рядом
+
+ ńulm-əm	| tunti	| ńulm-əm	| tunti-jən	| laŋk-λ-ət
+ отделять от берёзы-ptcp.pst	| береста	| отделять от берёзы-ptcp.pst	| береста-loc	| стелить-npst-3pl
+а сверху этого кладут вареную (обработанную) бересту
+
+ ɵχti-jən	| 	| ăλ	| 	| pawərt-ən	| wɛr-λ-a-jət
+ на-loc	| 	| простой	| 	| бревно-loc	| делать-npst-pass-3pl
+снаружи бревна кладут (делают)
+
+ sʉs	| wɵλ-ti	| χot	| 	| a	| tăλ	| χot	| 
+ осень	| жить-ptcp.npst	| дом	| 	| а	| везти	| дом	| 
+
+ tăλ-ən	| wɵλλˊə-ti	| mesta	| χuśa
+ зима-loc	| жить-ptcp.npst	| место	| у
+Осенью живут в этом доме. А зимний дом – на месте проживания зимой
+
+ śit	| jʉχ	| pawərt	| χot	| 	| iśi	| χuras
+ это	| дерево	| бревно	| дом	| 	| тоже	| вид
+
+ pawərt	| χot	| 
+ бревно	| дом	| 
+это бревенчатый дом. Такой же деревянный бревенчатый дом.
+
+ λaŋəλ	| laŋk-λ-ət	| tunti-jən	| 	| tunti	| nʉmpi ewəλt	| pa
+ крыша	| стелить-npst-3pl	| береста-loc	| 	| береста	| сверху	| add
+
+ tʉŋk
+ мох
+Крышу покрывали берестой. Поверх бересты мох (клали)
+
+ tʉŋk-ən	| laŋk-λ-ət	| tăλ-ən	| χošəm	| at	| wɵ-s
+ мох-loc	| стелить-npst-pl	| зима-loc	| теплый	| opt	| быть-pst
+Покрывают мхом, чтобы зимой тепло было
+
+ a	| išńi-λ-aλ	| pa	| kewan	| lis	| 	| 	| 
+ а	| окно-pl-poss.3sg	| add	| бутылка	| лист	| 	| 	| 
+
+ at	| jeλpijən	| potəm	| jɛŋk-ən	| pun-ijəλ-s-ət	| 	| pun-ijəλ-s-a-jət	| 
+ ночь	| перед	| мёрзлый	| лёд-loc	| класть-freq-pst-pl	| 	| класть-freq-pst-pass-3pl	| 
+А окна перед тем, как появилось стекло, на ночь застывшим льдом закрывали
+
+ śiməś	| χot-ət	| wɵ-s-ət
+ такой	| дом-pl	| быть-pst-3pl
+Такие дома были.
+
+
+title	kh_txt_EAA_SV_20180628_museum_foundation
+title	Основание музея
+title	Museum foundation
+title-abbreviation	EAA_museum_foundation
+title-abbreviation	EAA_museum_foundation
+title-abbreviation	EAA_museum_foundation
+source	
+source	Field recording. NRU HSE and MSU expedition.
+source	Полевая запись. Экспедиция НИУ ВШЭ и МГУ.
+comment	Биографический нарратив. Записано Сергеем Ванияном в с. Казым 28.06.2018. Информанты: Ерныхов Андрей Александрович (род. в д. Амня в 1944).
+comment	Biographical narrative. Recorded by Sergei Vaniian in Kazym 28.06.2018. Speakers: Ernykhov Andrei Aleksandrovich (born in Amnia 1944).
+
+ sowχos	| ropota-jəλ	| jira	| jira	| pit-s-əm
+ совхоз	| работа-poss.3sg	| прочь	| прочь	| становиться-pst-1sg
+С совхозной работы когда ушел
+
+ numəs-ən	| juχət-s-a	| 	| numəs-ən	| juχət-ti	| pit-s-a-jəm	| 	| muj
+ мысль-loc	| прийти-pst-pass	| 	| мысль-loc	| ездить-ptcp.npst	| становиться-pst-pass-1sg	| 	| что
+
+ wʉr-ən
+ способ-loc
+Мысль пришла, мысли стали приходить, как
+
+ χănti	| wɵλ-ti	| wɛr-ew	| jeλλi	| pɛλa	| tɵ-ti
+ ханты	| жить-ptcp.npst	| дело-poss.1pl	| дальше	| в направлении	| нести-ptcp.npst
+То, что жили ханты, дальше передать
+
+ i	| śirən	| oλəŋ	| 	| oλəŋ	| muzej	| wɵ-s
+ и	| тогда	| вначале	| 	| вначале	| музей	| быть-pst
+Тогда один, один музей был
+
+ surgutskij	| rajon	| 	| to estˊ	| nišnewartowskij	| rajon	| χuśa
+ сургутский	| район	| 	| то есть	| нижневартовский	| район	| у
+В Сургутском районе, то есть в Нижневартовском районе (был)
+
+ jurij	| villa	| 	| λʉw	| oλəŋ	| oλəŋ	| muzej
+ Юрий	| Вылла	| 	| 3sg	| вначале	| вначале	| музей
+
+ wɛr-əs
+ делать-pst
+Юрий Вылла, он первый, первый музей сделал
+
+ ma	| want-ti	| păta	| śiw	| jăŋχ-s-əm
+ я	| видеть-ptcp.npst	| из-за	| туда	| ездить-pst-1sg
+Я, чтобы посмотреть, туда ездил
+
+ warj	| 	| warjɵgan	| kɵrt	| śăta	| wɵ-s	| muzej
+ 	| 	| Варьёган	| село	| там	| быть-pst	| музей
+В Варьёгане там был музей
+
+ śiw	| want-s-əm	| χutisa	| wɛr-man	| wɵ-s	| 	| jis
+ туда	| смотреть-pst-1sg	| как 	| делать-cvb	| быть-pst	| 	| старый
+
+ purməs-ət	| 	| jis	| χot	| 	| χot-ət	| wɵnt	| ewəλt	| 
+ вещь-pl	| 	| старый	| дом	| 	| дом-pl	| лес	| от	| 
+
+ wɵnt-ən	| wɵ-λ-əm	| 	| 	| 	| χot	| tɵ-s-ij-ət
+ лес-loc	| жить-npst-1sg	| 	| 	| 	| дом	| нести-pst-pass-3pl
+Там посмотрел, как устроен музей, старинные вещи, старые дома из леса, дома, в которых жили, привезли
+
+ śi	| oλəŋ	| śi	| nums-əλ	| pit-əs	| i śi
+ emph	| вначале	| emph	| мысль-poss.3sg	| становиться-pst	| также
+
+ jăŋχ-s-əm	| śiw	| śăλta	| juχət-s-əm	| tiw
+ ездить-pst-1sg	| туда	| потом	| ездить-pst-1sg	| сюда
+Тогда и пришла мысль, когда съездил туда, приехал сюда
+
+ wuχ	| 	| muzej	| χot	| wuχ	| 	| muzej	| χot
+ деньги	| 	| музей	| дом	| деньги	| 	| музей	| дом
+
+ wɛr-ti	| štob	| 	| wuχ	| kănš-ti
+ делать-ptcp.npst	| чтоб	| 	| деньги	| искать-ptcp.npst
+Деньги, на музей деньги, чтобы построить музей, деньги искать стал
+
+ okrug	| χuśa	| nɛməλti	| j	| 	| uš-ən	| ănt	| 
+ округ	| у	| ничего	| 	| 	| понимание-loc	| neg	| 
+
+ ăn	| mă-s-ij-əw-a
+ neg	| отдать-pst-pass-1pl-pass
+В округе толком ничего не дали
+
+ λeśit-s-eλ	| rajon	| wʉšn	| 	| wuχ-ən	| ńot-ti	| i
+ отправить-pst-3pl>sg	| район	| в 	| 	| деньги-loc	| помогать-ptcp.npst	| и
+
+ muzej	| oλŋit-ti	| wɛr-ti
+ музей	| начать-ptcp.npst	| делать-ptcp.npst
+Отправили в район  помочь с деньгами и начать строить музей
+
+ śirən	| sowet-ən	| rɵpit-əs	| Obatina	| Galina	| Alekseevna
+ тогда	| совет-loc	| работать-pst	| Обатина	| Галина	| Алексеевна
+Тогда в совете работала Обатина Галина Алексеевна
+
+ λʉw	| piλa-λa	| 	| piλa	| aλəŋ	| 	| măn-s-əmən
+ 3sg	| с-**	| 	| с	| утром	| 	| ехать-pst-1du
+С ней мы пошли
+
+ amńa	| tʉm	| pɛlək-a	| 	| mesta	| want-s-əmən
+ Амня	| тот	| сторона-dat	| 	| место	| смотреть-pst-1du
+В сторону Амни место смотреть
+
+ kolxoz	| wɵλ-əm	| jis	| muλti	| mis	| χot
+ колхозный	| жить-ptcp.pst	| старый	| что.INDEF	| корова	| дом
+
+ wɵ-s	| mis	| χot	| mesta-jen	| śăta
+ быть-pst	| корова	| дом	| место-poss.2sg	| там
+На месте старых колхозных коровников выбрали место 
+
+ śi	| woš	| 	| amńa	| woš	| uwəs	| oλəŋ-a
+ emph	| поселок	| 	| Амня	| поселок	| север	| начало-dat
+
+ śăta	| 	| mesta	| wɵjət-s-əmən	| χot	| oməs-ti
+ там	| 	| место	| найти-pst-1du	| дом	| ставить-ptcp.npst
+На конце деревни Амня там нашли место поставить дом
+
+ sowχos	| ewəλt	| stroitelˊnij	| brigata-jen	| mă-s-ij-əm
+ совхоз	| от	| строительный	| бригада-poss.2sg	| отдать-pst-pass-1sg
+Из совхоза направили ему строительную бригаду 
+
+ bˊudšet	| wuχ-ən	| rajon	| ewəλt	| mă-s-i	| i śi
+ бюджет	| деньги-loc	| район	| от	| дать-pst-pass	| также
+
+ joχ-λ-am	| śi	| wuχ-λ-am	| ewəλt	| śiw	| χot
+ человек-pl-poss.1sg	| emph	| деньги-pl-poss.1sg	| от	| туда	| дом
+
+ oməs-ti	| 	| păta
+ строить-ptcp.npst	| 	| для
+Из бюджета района дали деньги и люди начали, для того чтобы построить дом
+
+ jʉχ	| sewər-ti	| oλəŋ	| măn-s-ət
+ дерево	| рубить-ptcp.npst	| вначале	| идти-pst-3pl
+Сперва пошли лес рубить
+
+ χot	| 	| χot	| oməs-ti	| pawərt-ən	| tăλ	| 	| traktor-ən
+ дом	| 	| дом	| строить-ptcp.npst	| бревно-loc	| везти	| 	| трактор-loc
+
+ tăλ-s-ij-əw
+ везти-pst-pass-1pl
+Чтобы построить дом, трактором навезли бревна
+
+ i	| lot	| χot	| oməs-ti	| brigata-jɛm	| mă-s
+ и	| место	| дом	| ставить-ptcp.npst	| бригада-poss.1sg	| дать-pst
+
+ śi	| joχ-λ-am	| piλa	| χot-ew	| muzej	| oλəŋ-ən
+ emph	| человек-pl-poss.1sg	| с	| дом-poss.1pl	| музей	| начало-loc
+
+ kontora	| χot	| wɛr-s-əw
+ администрация	| дом	| делать-pst-1pl
+И на это место с бригадой этому музею сперва поставили административное здание
+
+ i	| χănti	| jʉχ	| χot
+ и	| ханты	| дерево	| дом
+И хантыйскую избушку 
+
+ sjuwaλ-əŋ	| 	| sjuwaλ-əŋ	| χot	| i	| λopas
+ чувал-prop	| 	| чувал-prop	| дом	| и	| лабаз
+Избушку с чувалом и лабаз
+
+ muλti	| ajmkitəm	| purməs	| tăj-ti
+ что.INDEF	| обыкновенный	| имущество	| иметь-ptcp.npst
+Хранить какие-нибудь вещи
+
+ χur	| χot	| wɛr-s-əw
+ вид	| дом	| делать-pst-1pl
+... дом построили
+
+ śi	| oλəŋ	| 	| oλəŋ	| wɛr-əm	| 	| wɛr-əm	| purməs-λ-aw
+ emph	| вначале	| 	| вначале	| делать-ptcp.pst	| 	| делать-ptcp.pst	| вещь-pl-poss.1pl
+
+ śit	| wɵ-s-ət
+ это	| быть-pst-3pl
+это все, что сперва построили
+
+ a	| jɵχət	| amńa	| 	| 	| amńa	| pelək-a
+ а	| потом	| Амня	| 	| 	| Амня	| сторона-dat
+
+ jăŋχ-ti	| wɛr-ew	| λawərta	| ji-s
+ ходить-ptcp.npst	| дело-poss.1pl	| тяжело	| стать-pst
+а потом переезжать через реку стало труднее
+
+ to estˊ	| λʉŋ-ən	| jăŋχ-ti
+ то есть	| лето-loc	| ходить-ptcp.npst
+То есть летом ездить
+
+ χop-ən	| jăŋχ-ti	| mos-əλ	| 	| tăλ-ən	| tăλ-ən	| toše
+ лодка-loc	| ездить-ptcp.npst	| быть нужным-npst	| 	| зима-loc	| зима-loc	| тоже
+
+ λońś	| lăp tɵtˊλ-ij-əλ
+ снег	| заносить -pass-npst
+Летом на лодке надо ездить, а зимой заметает снегом
+
+ 	| 	| 	| 	| woš	| pɛlək-ən	| 	| muzej
+ 	| 	| 	| 	| поселок	| сторона-loc	| 	| музей
+
+ jiλpa	| wɛr-ti
+ снова	| делать-ptcp.npst
+Пришлось музей сделать в стороне поселка сделать
+
+ śirən	| Komarova-jen	| juχt-ijəλ-əs
+ тогда	| Комарова-poss.2sg	| ездить-freq-pst
+Тогда Комарова приезжала
+
+ 	| 	| belojar	| ewəλt	| Manenkow	| juχt-ijəλ-əs	| śi
+ 	| 	| Белоярское	| от	| Маненков	| ездить-freq-pst	| emph
+С Белоярского Маненков приезжал
+
+ ar	| χuj-at	| piλa	| putr-ɛm-əs-ət	| tăm	| pɛlək-ən
+ много	| кто-indef	| с	| говорить-inch-pst-3pl	| этот	| сторона-loc
+
+ woš	| wɛr-ti	| 	| tăm	| pɛlək-ən	| muzej	| wɛr-ti
+ поселок	| делать-ptcp.npst	| 	| этот	| сторона-loc	| музей	| делать-ptcp.npst
+
+ śi
+ emph
+Приезжало много народу, и решили на этой стороне поселок сделать и сделать музей
+
+ tăm	| pɛlək-ən	| jɵχət	| wɛr-s	| wɵn	| muzej
+ этот	| сторона-loc	| потом	| делать-pst	| большой	| музей
+На этой стороне потом построили большой музей
+
+ in	| tăta	| pa	| śi	| oməs	| wɵλ-λ-ət
+ сейчас	| здесь	| add	| emph	| стоять	| жить-npst-3pl
+Теперь здесь сидя (сидят), живут
+
+
+title	kh_txt_GST&MIS_AZ_20180907_rain_mosquitos
+title	Rain mosquitos
+title	Комары во время дождя
+title-abbreviation	GST&MIS_rain_mosquitos
+title-abbreviation	GST&MIS_rain_mosquitos
+title-abbreviation	GST&MIS_rain_mosquitos
+source	
+source	Полевая запись. Экспедиция НИУ ВШЭ и МГУ.
+source	Field recording. NRU HSE and MSU expedition.
+comment	Диалог. Записано Айгуль Закировой в с. Казым 09.07.2018. Информанты: Горшнева Светлана Тихоновна (род. на стойбище у д. Юильск в 1966), Молданова Ирина Семеновна (род. в д. Юильск в 1971)
+comment	Dialogue. Recorded by Aigul Zakirova in Kazym 09.07.2018. Speakers: Gorshneva Svetlana Tikhonovna (born at the camp near Yuilsk 1966), Moldanova Irina Semenovna (born in Yuilsk 1971).
+
+ 	| 	| χănti	| jasəŋ-ən	| putər-λ-ət
+ 	| 	| ханты	| язык-loc	| говорить-npst-3pl
+Они говорят по-хантыйски
+
+ 	| 	| ăχă	| 	| χănti	| jasəŋ-ən	| śi	| putər-λ-əŋən
+ 	| 	| ага	| 	| ханты	| язык-loc	| emph	| говорить-npst-3du
+Ага, говорят по-хантыйски
+
+ 	| 	| tăm	| χătəλ	| tɵrəm	| aśe-n	| jɛrt-a
+ 	| 	| этот	| день	| небо	| отец-poss.2sg	| дождь-dat
+
+ ji-s
+ стать-pst
+Сегодня идет дождь
+
+ ***	| 	| opet-ən	| śi	| jɛrt-ti	| pit-əs
+ 	| 	| обед-loc	| emph	| дождить-ptcp.npst	| становиться-pst
+В обед дождь начался
+
+ 	| 	| rʉś-λ-aw-ən	| tʉm	| siri	| χătəλ	| jeλpijən
+ 	| 	| русский-pl-poss.1pl-loc	| тот	| предыдущий	| день	| перед
+
+ lup-ti	| pit-s-a-jəw	| jɛrt-a	| ji-λ
+ сказать-ptcp.npst	| становиться-pst-pass-1pl	| дождь-dat	| стать-npst
+Русские сказали еще позавчера, что должен пойти дождь
+
+ 	| 	| tɵrəm	| aśe-n	| λʉw	| śir-ən	| at-ən
+ 	| 	| небо	| отец-poss.2sg	| 3sg	| образ-loc	| ночь-loc
+
+ jɛrt-λ
+ дождить-npst
+А дождь, значит, сегодня ночью пойдет
+
+ 	| 	| jɛrt-λ	| ješa	| wuλi-jəs	| 	| tăm	| at-əλ
+ 	| 	| дождь-poss.3sg	| немного	| прекратить-pst	| 	| этот	| ночь-poss.3sg
+
+ jetən	| atλən	| mă-ti	| jɛrt-ti	| pa	| pit-əλ
+ вечер	| ночью	| дать-ptcp.npst	| дождить-ptcp.npst	| add	| становиться-npst
+Дождь перестал немного, сегодня ночью опять пойдет
+
+ ***	| 	| rʉś	| putər-ti	| śir-ən	| 	| rʉś-λ-an	| śir-ən
+ 	| 	| русский	| говорить-ptcp.npst	| образ-loc	| 	| русский-pl-poss.2sg	| образ-loc
+Русские так сказали
+
+ 	| 	| a	| mʉŋ	| want-λ-əw	| muj	| wʉr-ən
+ 	| 	| а	| 1pl	| видеть-npst-1pl	| что	| способ-loc
+
+ tăm	| χătəλ
+ этот	| день
+А мы посмотрим, что сегодня будет
+
+ ***	| 	| uš-a	| ji-λ	| śăχa
+ 	| 	| ум-dat	| стать-npst	| после
+Потом узнаем
+
+ 	| 	| atλən	| uš-a	| ji-λ	| χuti	| jɛrt-λ
+ 	| 	| ночью	| ум-dat	| стать-npst	| как	| дождить-npst
+Вечером узнаем, пойдет ли дождь
+
+ ***	| 	| in	| muj	| ut-en	| χutəŋ	| tuχəλ
+ 	| 	| сейчас	| что	| вещь-poss.2sg	| лебедь	| крыло
+
+ λiλti	| iλ	| wɛr-əλ
+ 	| внизу	| делать-npst
+Теперь, это самое, (дождь) лебедям линять помогает
+
+ ***	| 	| śi	| păta	| śiw	| jɛrt-en	| jɛrt-λ
+ 	| 	| тот	| из-за	| туда	| дождь-dat	| дождить-npst
+Поэтому мелкий дождь идет
+
+ 	| 	| mɵrəχ-λ-aλ	| jăm-a	| wɛr-λ-əλλe
+ 	| 	| морошка-pl-poss.3sg	| хороший-dat	| делать-npst-3sg>sg/pl
+Морошке помогает расти
+
+ ***	| 	| wońśəm-əλ-aλ	| ɛnəm-əλ
+ 	| 	| ягода-pl-poss.3sg	| расти-npst
+Ягоды растит
+
+ 	| 	| wońśəm-əλ-aλ	| ɛnəm-əλ	| 	| lipət-λ-aλ
+ 	| 	| ягода-pl-poss.3sg	| расти-npst	| 	| цветок-pl-poss.3sg
+Ягоды растит, цветы
+
+ ***	| 	| aj	| woj-ije-λ-an
+ 	| 	| маленький	| птица-dim-pl-poss.2sg
+Маленькие птички
+
+ 	| 	| jɵχət	| tarma	| ji-λ-ət
+ 	| 	| потом	| суровый	| стать-npst-3pl
+Потом суровыми становятся
+
+ ***	| 	| pɛλŋa-λ-aλ
+ 	| 	| комар-npst-poss.3sg
+Комары
+
+ 	| 	| pɛλŋa-jət	| tarma	| ji-λ-ət	| 
+ 	| 	| комар-pl	| суровый	| стать-npst-3pl	| 
+Комары злыми становятся
+
+ ***	| 	| ńamaλt-en	| pa
+ 	| 	| мошка-poss.2sg	| add
+Мошка тоже
+
+ 	| 	| ńamaλt	| 	| śi	| tarma	| ji-λ-ət
+ 	| 	| мошка	| 	| emph	| суровый	| стать-npst-3pl
+Мошка тоже назойливой становится
+
+ ***	| 	| tăm	| iti	| jɛrt-λ-a-jət	| pa	| i
+ 	| 	| этот	| как	| дождить-npst-pass-3pl	| add	| и
+
+ nɛš	| tarma-t	| śăχa
+ даже	| суровый-3pl	| после
+Так намокнут они от дождя и еще пуще становятся
+
+ ***	| 	| tarma	| śi	| ji-λ-ət
+ 	| 	| суровый	| emph	| стать-npst-3pl
+Да, злее становятся
+
+ 	| 	| tuχəλ-əλ-aλ	| taka	| ji-λ-ət
+ 	| 	| крыло-pl-poss.3sg	| сильно	| стать-npst-3pl
+Крылья у них крепнут
+
+ 	| 	| śi	| naverno	| ewi
+ 	| 	| emph	| наверное	| девочка
+Все наверное, девушка
+
+
+title	kh_txt_GST_LU_20180709_trip
+title	Поездка
+title	Trip
+title-abbreviation	GST_trip
+title-abbreviation	GST_trip
+title-abbreviation	GST_trip
+source	
+source	Полевая запись. Экспедиция НИУ ВШЭ и МГУ.
+source	Field recording. NRU HSE and MSU expedition.
+comment	Биографический нарратив. Recorded in Kazym 09.07.2018. Информанты: Горшнева Светлана Тихоновна (род. на стойбище у д. Юильск в 1966).
+comment	Biographical narrative. Recorded in Kazym 09.07.2018. Speakers: Gorshneva Svetlana Tikhonovna (born at the camp near Yuilsk 1966).
+
+ ma	| i	| oλ	| wɵλ-man	| jăŋχ-s-əm	| rʉtśə-ti
+ я	| и	| год	| жить-cvb	| ездить-pst-1sg	| отдыхать-ptcp.npst
+
+ pa	| χɵn	| pɛlk	| mir	| want-ti
+ add	| когда	| половина	| народ	| видеть-pl
+Год назад я ездила отдыхать и другую жизнь людей посмотреть
+
+ mănema	| wɛra	| ɵməś	| wɵ-s	| joχ	| piλa
+ 1sg.dat	| очень	| приятно	| быть-pst	| народ	| с
+
+ wɵλ-ti	| šăta	| 
+ жить-ptcp.npst	| там	| 
+Мне очень интересно было с людьми жить там
+
+ šăλta	| ewi	| pa	| aŋki	| piλa	| wʉśa
+ потом	| девочка	| add	| мать	| с	| привет
+
+ wɛr-s-əm	| 	| jăm-a	| wɵ-s-əw	| śăta	| 
+ делать-pst-1sg	| 	| хороший-dat	| жить-pst-1pl	| там	| 
+Затем (потом) с девочкой и мамой познакомилась (поздоровалась), хорошо жили там
+
+ śăλta	| tăm	| χɵn	| śăta	| rʉtś-əw	| 	| juχλi
+ потом	| этот	| когда	| там	| отдыхать-1pl	| 	| обратно
+
+ pɛλa	| juχət-λ-əw	| 
+ в направлении	| прийти-npst-1pl	| 
+Затем этот когда там отдыхали, когда обратно пришли
+
+ in	| nɛ-ŋaλ-aλ	| măn-ti	| ińś-əs-əλən
+ сейчас	| женщина-du-poss.3sg	| идти-ptcp.npst	| спросить-pst-2/3du>sg
+Эти женщины меня спросили
+
+ 	| χuλta	| măn-λ-əm	| χoλ-ti	| 	| wɵλ-ti	| 
+ 	| куда	| идти-npst-1sg	| ночевать-ptcp.npst	| 	| жить-ptcp.npst	| 
+куда пойду жить-ночевать
+
+ ma	| lup-λ-əm	| 	| ma	| χuλta	| măn-λ-əm	| 	| tăta
+ я	| сказать-npst-1sg	| 	| я	| куда	| идти-npst-1sg	| 	| здесь
+
+ gostinisa	| peλa	| śi	| măn-λ-əm	| wɵλ-ti
+ гостиница	| в направлении	| emph	| идти-npst-1sg	| жить-ptcp.npst
+Я говорю, куда пойду, вот в гостиницу пойду жить
+
+ in	| nɛ-ŋaλ-ɛm	| λup-λ-eŋən
+ сейчас	| женщина-du-poss.1sg	| сказать-npst-3du
+Женщины (мои эти две) говорят
+
+ 	| ăntɵ	| 	| năŋ	| măn-λ-ən	| mʉŋ	| χot-ew-a	| wɵλ-ti	| 
+ 	| neg.ex	| 	| 2sg	| идти-npst-2sg	| 1pl	| дом-poss.1pl-dat	| жить-ptcp.npst	| 
+Нет, ты пойдешь в наш дом жить
+
+ i	| śăλta	| ma	| śi	| măn-s-əm
+ и	| потом	| я	| emph	| ехать-pst-1sg
+(И) затем я и пошла
+
+ ńăλ	| χătλ	| in	| nɛ-ŋaλ-ɛm	| χuśa	| wɵ-s-əm
+ четыре	| день	| сейчас	| женщина-du-poss.1sg	| у	| жить-pst-1sg
+4 дня у этих женщин жила
+
+ śi	| 	| śi
+ emph	| 	| emph
+ну вот как рассказала
+
+
+title	kh_txt_IAS_IM_20180714_it's_a_khanty's_life_in_the_modern_chum
+title	Жизнь ханты в современном чуме
+title	Khanty's_life_in_the_modern_chum
+title-abbreviation	IAS_Life_in_the_modern_chum
+title-abbreviation	IAS_Life_in_the_modern_chum
+title-abbreviation	IAS_Life_in_the_modern_chum
+source	Полевая запись. Экспедиция НИУ ВШЭ и МГУ.
+source	Field recording. NRU HSE and MSU expedition.
+comment	
+comment	Биографический нарратив. Записано Ильей Макарчуком в с. Казым 14.07.2018. Информант: Истомина Анна Степановна (род. в с. Казым в 1965).
+comment	Biographical narrative. Recorded by Ilya Makarchuk  in Kazym 14.07.2018. Speaker: Istomina Anna Stepanovna (born in Kazym in 1965).
+
+ ma	| ɛnəm-s-əm	| wɵnt-ən	| ńuki χot-ən
+ я	| расти-pst-ptcp.pst	| лес-loc	| чум-loc
+Я росла в лесу, в чуме
+
+ 	| 	| wʉλe-t	| kʉtən
+ 	| 	| олень-pl	| среди
+среди оленей
+
+ 	| λʉŋ-ən	| mʉŋ	| pɵsəŋ	| pun-λ-əw
+ 	| лето-loc	| 1pl	| дымокур	| класть-npst-1pl
+Летом мы разводим дымокур
+
+ wʉλi-jən	| jăŋχ-s-əw
+ олень-loc	| ездить-pst-1pl
+На оленях ездили
+
+ ma	| 	| 	| 	| 	| isa	| deduška-jɛm
+ я	| 	| 	| 	| 	| всегда	| дедушка-poss.1sg
+
+ piλa
+ с
+Я все время с дедушкой
+
+ χʉλ	| katλ-ti	| jăŋχ-s-əw	| χoλp-ət	| want-s-əw	| 
+ рыба	| ловить-ptcp.npst	| ездить-pst-1pl	| сеть-pl	| видеть-pst-1pl	| 
+
+ 
+ 
+Рыбу ловить ходили, сетки проверяли
+
+ χoλp-ət	| want	| 	| χoλp	| want-λ-əw	| ka	| 	| 
+ сеть-pl	| смотреть	| 	| сеть	| видеть-npst-1pl	| flst	| 	| 
+
+ 	| 	| 	| 	| 	| 	| 
+ 	| 	| 	| 	| 	| 	| 
+
+ 
+ 
+сетки проверяют
+
+ χoλəp	| 	| 	| χoλəp-λ-aw	| want-λ-əw	| śăλta	| wʉλi-λ-aw
+ сеть	| 	| 	| сеть-pl-poss.1pl	| видеть-npst-1pl	| потом	| олень-pl-poss.1pl
+
+ wɵtˊśa	| ăkət-λ-əw
+ вместе	| собирать-npst-1pl
+Сети... cети проверим потом оленей в кучу соберем
+wʉλtλuw исправил на wʉλiλaw, но надо послушать с носителем
+
+ wʉλi-λ-aw	| ăkət-ti	| art-ən	| aśi-ɛm	| wʉλi	| 	| 
+ олень-pl-poss.1pl	| собирать-ptcp.npst	| время-loc	| отец-poss.1sg	| олень	| 	| 
+
+ wʉλi	| ɵχəλ	| kir-əλ
+ олень	| нарта	| запрягать-npst
+Во время сбора оленей отец запрягает оленей в нарты
+
+ śăλta	| taś-λ	| taś-λ	| λawəλ-ti	| măn-λ
+ потом	| стадо-poss.3sg	| стадо-poss.3sg	| пасти-ptcp.npst	| ехать-pl
+потом стадо пасти едет
+
+ mʉŋ	| aŋki-ɛm	| piλa	| juλn	| deduška-jɛm	| piλa
+ 1pl	| мать-poss.1sg	| с	| дома	| дедушка-poss.1sg	| с
+
+ juλn	| χătˊ-λ-əw	| 	| 
+ дома	| остаться-npst-1pl	| 	| 
+Мы с мамой, с дедушкой остаемся дома
+
+ ma	| deduška-jɛm	| jʉpijn	| isa	| jăŋχ-ijλ-λ-əm
+ я	| дедушка-poss.1sg	| после	| всегда	| ездить-iter.npst-npst-ptcp.pst
+Я все время за дедушкой хожу
+
+ deduška-jɛm	| 	| moś	n	| moń-λ-a-jəm	| mońś	| ar	| mońś
+ дедушка-poss.1sg	| 	| сказка-loc	| рассказывать-npst-pass-1sg	| сказка	| много	| сказка
+
+ tăj-s
+ иметь-pst
+Дедушка мне сказки рассказывает, много сказок знал
+
+ sir	| sir	| mońś-ət	| mońś-əs
+ разный	| разный	| сказка-pl	| рассказывать-pst
+Разные сказки рассказывал
+
+ isa	| λʉw	| šaš-λ-ən	| oms-ijλ-s-əm
+ всегда	| 3sg	| колено-poss.3sg-loc	| сидеть-iter.npst-pst-ptcp.pst
+Все время сидела у него на коленях
+
+
+title	kh_txt_IAS_IM_20180714_protection_from_mosquitos
+title	Защита от комаров
+title	Protection from mosquitos
+title-abbreviation	IAS_protection_from_mosquitos
+title-abbreviation	IAS_protection_from_mosquitos
+title-abbreviation	IAS_protection_from_mosquitos
+source	Field recording. NRU HSE and MSU expedition.
+source	Полевая запись. Экспедиция НИУ ВШЭ и МГУ.
+comment	
+comment	Этнографический нарратив. Записано Ильей Макарчуком в с. Казым 14.07.2018. Информант: Истомина Анна Степановна (род. в с. Казым в 1965).
+comment	Ethnographic narrative. Recorded by Ilya Makarchuk in Kazym 14.07.2018. Speaker: Istomina Anna Stepanovna (born in Kazym in 1965).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ wɵn	| wɵn	| taś	| 	| wet	| śurəs	| χɵt
+ большой	| большой	| стадо	| 	| пять	| тысяча	| шесть
+
+ śurəs	| arat
+ тысяча	| множество
+Большое-большое стадо, около пяти-шести тысяч
+
+ pɵsəŋ	| wɛr-man	| deduška-jen	| piλa	| śi	| jăŋ-s-ɛmən
+ дымокур	| делать-cvb	| дедушка-poss.2sg	| с	| emph	| ходить-pst-1du>sg
+Вот и ходили с дедушкой дымокур делали
+
+
+
+ χătəλ-ən	| uλ-λ-ət	| 	| jetn	| oλəŋ-a	| śi	| măn-λ-ət
+ день-loc	| спать-npst-3pl	| 	| вечер	| начало-dat	| emph	| идти-npst-3pl
+
+ λɛ-ti
+ есть-ptcp.npst
+Днём спят, к вечеру идут кушать
+
+
+
+ mʉŋ	| χoλəp	| want-ti	| jăŋ-λ-əmən	| χʉλ	| tɵ-λ-əmən	| 
+ 1pl	| сеть	| видеть-pl	| ходить-npst-1du	| рыба	| нести-npst-1du	| 
+
+ aŋki-ɛm	| χʉλ	| kawər-λ	| jetn
+ мать-poss.1sg	| рыба	| варить-npst	| вечер
+Мы ходим проверять сети, приносим рыбу, мама вечером варит рыбу
+
+ pa	| χătλ-a	| ji-λ	| 	| iśi	| wɛr-ew
+ add	| солнце-dat	| стать-npst	| 	| тоже	| дело-poss.1pl
+Наступит другой день, тоже самое
+
+
+title	kh_txt_IAS_IM_20190625_sohlamat
+title	Соламат
+title	Solamat
+title-abbreviation	IAS_sohlamat
+title-abbreviation	IAS_sohlamat
+title-abbreviation	IAS_sohlamat
+source	Полевая запись. Экспедиция НИУ ВШЭ и МГУ.
+source	Field recording. NRU HSE and MSU expedition.
+comment	
+comment	Этнографический нарратив. Записано Ильей Макарчуком в с. Казым 25.06.2019. Информант: Истомина Анна Степановна (род. в с. Казым в 1965).
+comment	Ethnographic narrative. Recorded by Ilya Makarchuk in Kazym 25.06.2019. Speaker: Istomina Anna Stepanovna (born in Kazym in 1965).
+
+ soλamat
+ соламат
+Соламат
+
+ ńʉki χot-ən	| wɵ-s-əw
+ чум-loc	| жить-pst-1pl
+В чуме жили
+
+ lʉk	| soλamat	| λɛ-s-əw
+ глухарь	| соламат	| есть-pst-1pl
+Глухариный соламат ели
+
+ χʉλ	| soλamat	| kawərt-əs-əw
+ рыба	| соламат	| варить-pst-1pl
+Рыбный соламат варили
+
+ λant jiŋk
+ суп
+Мучной бульон рыбный
+
+ λant	| 	| λant-ən	| pun-λ-a-jət
+ мука	| 	| мука-loc	| добавить-npst-pass-3pl
+Муку добавляют
+
+ χʉλ	| piλa
+ рыба	| с
+С рыбой
+
+ ar	| śir	| śir-ən	| kawərt-ti
+ много	| образ	| образ-loc	| варить-ptcp.npst
+По-разному (можно) варить
+
+ sor-əm	| χʉλ	| piλa	| kawərt-ti	| soλamat
+ сушить-ptcp.pst	| рыба	| с	| варить-ptcp.npst	| соламат
+(Можно) варить соламат с сухой рыбой
+
+ sor-əm	| ńuχi	| piλa
+ сушить-ptcp.pst	| мясо	| с
+С сушёным мясом
+
+
+title	kh_txt_KED_DB_20190328_bear_fairytale
+title	Bear fairy tale
+title	Сказка про медведя
+title-abbreviation	KED_bear_fairytale
+title-abbreviation	KED_bear_fairytale
+title-abbreviation	KED_bear_fairytale
+source	Полевая запись. Экспедиция НИУ ВШЭ и МГУ.
+source	Field recording. NRU HSE and MSU expedition.
+comment	Fairy tale. Recorded by Daria Bikina in Kazym 28.03.2019. Speaker: Kaksina Evdokia Danilovna.
+comment	Сказка. Записано Дарьей Бикиной в с. Казым 28.03.2019. Информант: Каксина Евдокия Даниловна. 
+
+ jiw puχije-n	| oλəŋ	| mońś	| jiw puχije-n	| oλəŋ
+ мишка-poss.2sg	| о	| сказка	| мишка-poss.2sg	| о
+Сказка про мишку
+
+ jiw puχije-n	| šɵš-ijəλ-λ	| šɵš-ijəλ-t-aλ	| kʉtən
+ мишка-poss.2sg	| ходить-freq-npst	| ходить-freq-ptcp.npst-poss.3sg	| во время
+Пока медведь ходил-бродил
+
+ wɵri	| kiməλ-a	| juχət-əs
+ старица	| край-dat	| прийти-pst
+Пришёл к берегу старицы
+
+ wɵri	| kiməλ-a	| juχət-əs	| want-λ-əλλe
+ старица	| край-dat	| прийти-pst	| видеть-npst-3sg>sg/pl
+Пришёл к берегу старицы и видит:
+
+ wɵri	| pitərn	| sort	| ik-en	| nuχ	| χʉwλə-əm-aλ
+ старица	| возле	| щука	| мужчина-poss.2sg	| вверх	| всплыть-ptcp.pst-poss.3sg
+В старице щука всплыла
+
+ jiŋk	| χuśa	| śi	| oməs-əλ
+ вода	| у	| emph	| сидеть-npst
+Сидит на воде
+
+ in	| jiw puχije-n	| wan-a	| tuχi	| śi	| χăt-əλ
+ этот	| мишка-poss.2sg	| короткий-dat	| туда	| emph	| двигаться-npst
+Медвeдь подошёл поближе
+
+ tʉm	| sort-əλ	| kʉš	| kʉnš-ɛm-əs-λe
+ тот	| щука-poss.3sg	| хотя	| схватить-inch-pst-3sg>sg/pl
+Щуку чуть не схватил
+
+ kʉnš-ɛmə-ti	| wʉtś-ijəλ-s-λe	| katλŋ-əλ-ən	| katλŋ-əλ-ən
+ схватить-inch-ptcp.npst	| хотеть-freq-pst-3sg>sg/pl	| когти медведя-npst-loc	| когти медведя-npst-loc
+Хотел схватить когтями
+
+ in	| sort-en	| śur-əmt-əs
+ этот	| щука-poss.2sg	| выскочить-punct-pst
+Щука испугалась, отскочила
+
+ jiŋk-a	| iλ	| mărət-əs	| wɵri	| kʉtəp-ən	| nuχ
+ вода-dat	| внизу	| нырнуть-pst	| старица	| средний-loc	| вверх
+
+ ɛt-əs
+ выйти-pst
+Нырнула в воду и выплыла посередине старицы
+
+ juχλi	| pɛλa	| want-əλ
+ обратно	| в направлении	| видеть-npst
+Оглянулась
+
+ in	| sort	| ik-en	| lup-əλ
+ этот	| щука	| мужчина-poss.2sg	| сказать-npst
+Щука говорит:
+
+ ma	| nɵməs-s-əm	| λiw	| mujsər	| ut-ən	| śi
+ я	| думать-pst-1sg	| 3pl	| какой	| вещь-loc	| emph
+
+ murt-a	| paknəλ-s-a-jəm
+ степень-dat	| испугать-pst-pass-1sg
+Я думала, кто меня так сильно напугал?
+
+ śi	| χaś	| katλ-s-a-jəm
+ emph	| остаться	| ловить-pst-pass-1sg
+Чуть меня не поймал
+
+ năŋ	| nɛš	| jiw puχije	| wɵλ-əm-en
+ 2sg	| даже	| мишка	| быть-ptcp.pst-poss.2sg
+Оказывается, ты был мишка
+
+ năŋ	| pa	| muj	| măn-ti	| katəλ-ti	| wʉtś-ijəλ-s-ən
+ 2sg	| add	| что	| идти-ptcp.npst	| держать-ptcp.npst	| хотеть-freq-pst-2sg
+Ты меня поймать хотел
+
+ năŋ	| muj	| χɵ	| măn-ti	| katəλ-ti	| wʉtś-ijəλ-əm-en
+ 2sg	| что	| мужчина	| идти-ptcp.npst	| держать-ptcp.npst	| хотеть-freq-ptcp.pst-poss.2sg
+Ты кто такой хотел меня поймать?
+
+ χănti	| χɵ	| puχ-ije-n	| waś	| śol-əp	| 
+ ханты	| мужчина	| сын-dim-poss.2sg	| узкий	| рейка-prop.p	| 
+
+ pɵn	| katəλt-əm	| 
+ морда	| ловить-ptcp.pst	| 
+Хантыйский парень меня ловит ловушкой из тонких прутьев
+
+ ma	| χʉλ-ɛm	| ma	| ńuχi-ɛm	| 	| šɵpa
+ я	| рыба-poss.1sg	| я	| мясо-poss.1sg	| 	| через
+
+ λapət	| šɵpa	| ewət-λ-λe	| 	| šɵpa	| χɵt
+ семь	| через	| резать-npst-3sg>sg/pl	| 	| через	| шесть
+
+ šɵpa	| ewət-λ-λe
+ через	| резать-npst-3sg>sg/pl
+Разрубает моё мясо на 6-7 кусков
+
+ ma	| ńuχi-ɛm	| ma	| ut-ɛm	| χuλna	| suri-λ
+ я	| мясо-poss.1sg	| я	| вещь-poss.1sg	| ещё	| конвульсировать-poss.3sg
+Моё мясо ещё вздрагивает
+
+ năŋ	| pa	| muj	| χɵ	| măn-ti	| katəλ-ti
+ 2sg	| add	| что	| мужчина	| идти-ptcp.npst	| держать-ptcp.npst
+
+ wʉtś-ijəλ-s-ən
+ хотеть-freq-pst-2sg
+Что ты за зверь, хотел меня поймать
+
+ woj-en	| śi	| jeλɛm-s-a	| pa	| jeλλi	| šɵš-əm-əs
+ зверь-poss.2sg	| emph	| стыдиться-pst-pass	| add	| дальше	| ходить-mom-pst
+Зверю стало стыдно и он пошёл дальше
+
+ śiti	| măn-t-aw	| sa	| want-λ-əλλe
+ так	| идти-ptcp.npst-poss.1pl	| когда	| видеть-npst-3sg>sg/pl
+Проходя, увидел:
+
+ šowər	| upi-ije-λ	| oməs-əλ
+ заяц	| сестра-dim-poss.3sg	| сидеть-npst
+Зайка-сестричка сидит
+
+ śiw	| wan-a	| χăt-əs	| χăt-əs
+ туда	| короткий-dat	| двигаться-pst	| двигаться-pst
+Двигался, двигался к ней
+
+ wan-a-šək	| λom-ɛs-əs	| λom-ɛs-əs
+ короткий-dat-comp	| преследовать-detr-pst	| преследовать-detr-pst
+Ближе подкрадывался, подкрадывался
+
+ in	| śiw	| want-λ-λe	| wan-a	| śi	| juχət-əs
+ этот	| туда	| видеть-npst-3sg>sg/pl	| короткий-dat	| emph	| прийти-pst
+Смотрит, подошёл ближе
+
+ śi	| śur-əmt-əs	| in	| šowər	| katəλ-ti
+ emph	| выскочить-punct-pst	| этот	| заяц	| держать-ptcp.npst
+Кинулся ловить зайку
+
+ tuχi	| 	| kʉnš-ɛm-əs
+ туда	| 	| схватить-inch-pst
+Тут её схватил
+
+ šowər-en	| λʉw	| katλŋ-əλ	| kʉtən	| nawərm-əs	| jeλ
+ заяц-poss.2sg	| 3sg	| когти медведя-poss.3sg	| среди	| прыгнуть-pst	| дальше
+
+ pɛλa	| śi	| măn-əs
+ в направлении	| emph	| идти-pst
+Зайка между его лап вывернулась и побежала дальше
+
+ in	| śi	| λʉw	| pa	| šănš-ən	| λări-s
+ сейчас	| emph	| 3sg	| add	| спина-loc	| кружиться-pst
+
+ nuχ	| pit-əs
+ вверх	| становиться-pst
+Тут он опрокинулся
+
+ nuχ	| oməs-əs	| want-ijəλ-ti	| šowər-en	| jeλ	| nawər-əm
+ вверх	| сидеть-pst	| видеть-freq-ptcp.npst	| заяц-poss.2sg	| дальше	| прыгать-ptcp.pst
+
+ tăχi	| ɛλta	| śi	| want-əλ
+ место	| на	| emph	| видеть-npst
+Он сел, поднялся, посмотрел издалека, куда зайка побежала
+
+ juχλi	| pɛλa	| lup-əλ	| jiw	| puχ-ije-n	| nɛš
+ обратно	| в направлении	| сказать-npst	| отец	| сын-dim-poss.2sg	| даже
+
+ năŋ	| wɵ-λ
+ 2sg	| быть-npst
+Она говорит: Оказывается, это ты был
+
+ ma	| nɵməs-λ-əm	| mujsər	| šɵp-ən	| katəλ-ti	| wʉtś-ijəλ-s-ən
+ я	| думать-npst-ptcp.pst	| какой	| половина-loc	| держать-ptcp.npst	| хотеть-freq-pst-2sg
+Я думала, кто это меня поймать хотел
+
+ năŋ	| nɛš	| jiw puχij-ew-ən	| năŋ	| pa	| muj
+ 2sg	| даже	| мишка-poss.1pl-loc	| 2sg	| add	| что
+
+ păta	| măn-ti	| măn-ti	| śi	| murt-a	| paknəλ-s-ən
+ из-за	| идти-ptcp.npst	| идти-ptcp.npst	| emph	| степень-dat	| испугать-pst-2sg
+Ты зачем меня так напугал?
+
+ śăλta	| lup-əλ	| śi	| pitˊλˊəpt-əλ
+ потом	| сказать-npst	| emph	| надоедать-npst
+Потом и говорит, допытывается:
+
+ năŋ	| muj	| χɵ	| tăm	| wɵ-λ	| tăm
+ 2sg	| что	| мужчина	| этот	| быть-npst	| этот
+
+ măn-ti	| katəλ-ti	| wʉtś-ijəλ-s-ən
+ идти-ptcp.npst	| держать-ptcp.npst	| хотеть-freq-pst-2sg
+Что ты за мужик, что меня хотел поймать?
+
+ ma	| tuta	| χănti	| χɵ	| puχ	ij-ɛm-ən
+ я	| там	| ханты	| мужчина	| сын-dim-poss.1sg-loc
+Когда меня хантыйский парень
+
+ năŋ	| ńoλ-ən	| 	| 	| ńoλ-ən	| weλt-əm	| ki
+ 2sg	| стрела-loc	| 	| 	| стрела-loc	| добывать-ptcp.pst	| если
+
+ puraj-ən
+ время-loc
+Пущеной пулей убивает
+
+ ma	| kawərt-ti	| ma	| kawərt-ti	| χošəm	| jiŋk-ɛm-ən
+ я	| варить-ptcp.npst	| я	| варить-ptcp.npst	| теплый	| вода-poss.1sg-loc
+Бульоном, в котором я варилась
+
+ χońś-i	| χɵ	| λapət	| 	| χɵt	| jiλpaλə-λ-ət
+ страдать-ptcp.npst	| мужчина	| семь	| 	| шесть	| поправвляться-npst-3pl
+Семеро страждущих исцеляются
+
+ χońś-i	| χɵ	| χɵt	| jiλpaλə-λ-ət
+ страдать-ptcp.npst	| мужчина	| шесть	| поправвляться-npst-3pl
+Семеро страждущих исцеляются
+
+ năŋ	| năŋ	| kawərt-əm	| χošəm	| jiŋk-ɛm	| wuś
+ 2sg	| 2sg	| варить-ptcp.pst	| теплый	| вода-poss.1sg	| кислота
+
+ jiŋk	| pa
+ вода	| add
+А бульон, что ты варил, - баланда
+
+ wuś	| jiŋk	| pa	| χɵləŋ	| jiŋk
+ кислота	| вода	| add	| грязный	| вода
+Грязная вода, чёрная вода
+
+ śi	| jʉwpi	| woj-en	| jeλɛm-s	| pa	| wɵnt
+ тот	| после	| зверь-poss.2sg	| стыдиться-pst	| add	| лес
+
+ pɛλa	| śi	| šɵš-əm-əs
+ в направлении	| emph	| ходить-mom-pst
+После этого зверю стало стыдно и он пошёл в лес
+
+
+title	kh_txt_KED_OUIPIR_russian_doll
+title	Быличка о «русской» кукле
+
+ katra	| jis-ǝn	| ănt	| răχ-əs	| λɛwasa	| junt-ti
+ прежде	| век-loc	| neg	| мочь-pst	| напрасно	| играть-ptcp.npst
+
+ rʉś	| kʉkla-jən
+ русский	| кукла-loc
+В старину детям не разрешали играть «русскими» куклами
+
+ want-e	| 	| rʉś	| kʉkla-jen	| tăj-əs	| sɛm	| 	| păλ	| 
+ видеть-imp.sg>sg	| 	| русский	| кукла-poss.2sg	| иметь-pst	| глаз	| 	| ухо	| 
+
+ ńuλ	| 	| ɵpǝt	| 
+ нос	| 	| волосы	| 
+Видишь ли, у нее есть глаза, нос, уши, волосы
+
+ ńʉr	| isa	| nɛmasija	| χănti	| λiλ-əŋ	| ńawrɛm
+ совсем как	| совсем	| специально	| ханты	| жизнь-prop	| ребенок
+
+ iti
+ как
+ Кукла очень похожа на живого ребёнка
+
+ tɵp	| λiλ	| ănt	| tăj-əλ
+ только	| жизнь	| neg	| иметь-npst
+Только не дышит
+
+ jis	| pɛlək	| śiməś	| putər	| wɵλ-m-aλ	| mătti
+ старый	| половина	| такой	| разговор	| быть-ptcp.pst-poss.3sg	| какой.INDEF
+В старину бытовал такой разговор
+
+ taŋχa	| 	| mătta	| mʉw	| ewəλt	| ńawrɛm-λ-aλ	| rʉś
+ наверное	| 	| какой-нибудь	| земля	| от	| ребенок-pl-poss.3sg	| русский
+
+ kʉkla-jən	| tɵ-s-ij-ət
+ кукла-loc	| нести-pst-pass-3pl
+Видно, откуда-то привез-ли детям эти куклы
+
+ ewi-λ-aλ	| śit-eλ	| piλa	| śi	| junt-man	| ješaś-λ-ət
+ девочка-pl-poss.3sg	| это-dat	| с	| emph	| играть-cvb	| делать старательно-npst-3pl
+Девочки постоянно играют с ними
+
+ i	| mătta	| at	| 	| in	| ut-əλ	| nuχ
+ один	| какой-нибудь	| opt	| 	| сейчас	| вещь-poss.3sg	| вверх
+
+ śi	| šɵš-m-əs
+ emph	| ходить-mom-pst
+Однажды ночью кукла встала и начала ходить по дому
+
+ in	| uλ-ti	| ńawrɛm	| χuśa	| măn-əs	| 	| pa
+ сейчас	| спать-ptcp.npst	| ребенок	| у	| идти-pst	| 	| add
+
+ još	| λʉj-a	| tɵχm-əs
+ рука	| палец-dat	| укусить-pst
+Подошла к спящему ребёнку и за палец его укусила
+
+ in	| ńawrɛm	| atəm	| tʉr-ən	| ʉw-man	| nuχ
+ сейчас	| ребенок	| плохой	| голос-loc	| кричать-cvb	| вверх
+
+ śi	| răkn-əs
+ emph	| падать-pst
+Ребёнок  со страшным криком вскочил
+
+ want-λ-əλλe	| 	| kʉkla-jəλ	| λoλˊ-λ	| λʉw	| pitr-əλ-ən
+ видеть-npst-3sg>sg/pl	| 	| кукла-poss.3sg	| стоять-npst	| 3sg	| возле-poss.3sg-loc
+Смотрит: кукла с ней рядом стоит
+
+ jăm-a	| śi	| want-s-əλλe	| 	| jina	| śi	| kʉkla-jəλ
+ хороший-dat	| emph	| видеть-pst-3sg>sg/pl	| 	| действительно	| emph	| кукла-poss.3sg
+
+ śi	| wɵ-s
+ emph	| быть-pst
+Она хорошо увидела, что это действительно была кукла.
+
+ in	| ut-əλ	| χɵχəλ-m-əs	| iśi	| uλ-əm	| lot-əλ-a
+ этот	| вещь-poss.3sg	| бежать-mom-pst	| тоже	| лежать-ptcp.pst	| место-poss.3sg-dat
+
+ χunša	| keri-jəs
+ вверх лицом	| пропасть-pst
+А кукла убежала и снова на своё место лицом вверх легла
+
+ aŋk-eλ	| nuχ	| śur-əmt-əs	| 	| śi	| sij	| ewəλt	| 
+ мать-poss.3pl	| вверх	| выскочить-punct-pst	| 	| emph	| туда	| от	| 
+Тут мать вскочила от крика ребенка
+
+ pa	| χuti	| ji-s
+ add	| как	| стать-pst
+Что там случилось?
+
+ want-λ-əλλe	| 	| nɛməλt	| ut	| ăntɵ	| śăta
+ видеть-npst-3sg>sg/pl	| 	| ничего	| вещь	| neg.ex	| там
+Смотрит, никого нет рядом
+
+ in	| ńawrɛm-əλ	| jăm-a	| putər-ti	| λuwat	| wɵ-s	| 
+ этот	| ребенок-poss.3sg	| хороший-dat	| говорить-ptcp.npst	| возраст	| быть-pst	| 
+Девочка уже хорошо разговаривала
+
+ isa	| śi	| lup-əλ	| 
+ весь	| тот	| сказать-npst	| 
+Всё рассказывает
+
+ 	| kʉkla-jɛm-ən	| śi	| tɵχ-əm-s-a-jəm	| 
+ 	| кукла-poss.1sg-loc	| emph	| кусать-mom-pst-pass-1sg	| 
+Кукла укусила меня
+
+ wʉśŋa	| λʉj	| kʉškar-ɛm	| i	| šɵp-əλ	| nuχ
+ мизинец	| палец	| ноготь-poss.1sg	| один	| половина-poss.3sg	| вверх
+
+ mɛn-ɛm-əs-i	| 
+ вырвать-inch-pst-pass	| 
+На мизинце ноготь оторвала
+
+ in	| aλəŋa-ja	| ji-s	| 	| want-λ-eλ	| 
+ сейчас	| утро-dat	| стать-pst	| 	| видеть-npst-3pl>sg	| 
+Когда настало утро, смотрят:
+
+ jina	| śi	| 	| in	| ńawrɛm	| još	| λʉj-ət
+ действительно	| emph	| 	| сейчас	| ребенок	| рука	| палец-pl
+
+ χuśa	| pɛŋk	| ewəλt	| χătˊ-ś-əm	| păntijet	| wɵλ-λ-ət
+ у	| зуб	| от	| остаться-**-ptcp.pst	| 	| жить-npst-3pl
+И вправду на пальцах у ребенка остались следы от укуса
+
+ pa	| wʉśŋa	| λʉj	| kʉškar-əλ	| i	| šɵp-əλ
+ add	| мизинец	| палец	| ноготь-poss.3sg	| и	| половина-poss.3sg
+
+ wɵnt-a	| nuχ	| tɵχ-m-əm
+ лес-dat	| вверх	| кусать-mom-ptcp.pst
+На мизинце ноготь наполовину откушен был
+
+ in	| kʉkla-jəλ	| jăm-a	| want-ti	| pit-s-eλ	| 
+ сейчас	| кукла-poss.3sg	| хороший-dat	| видеть-pl	| становиться-pst-3sg	| 
+Стали они куклу разглядывать
+
+ śi	| uλ	| iśi	| śir-əλ-ən	| χunša
+ emph	| спать	| тоже	| образ-poss.3sg-loc	| вверх лицом
+Она лежала так, как ее  вечером дети положили
+
+
