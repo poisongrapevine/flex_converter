@@ -63,7 +63,7 @@ def load_exes(filename):
     texts = []
     res = []
     
-    with open(filename, 'r') as f:
+    with open(filename, 'r', encoding='utf8') as f:
         corp = f.read()
         
     for text in corp.split('kh_')[1:]:
